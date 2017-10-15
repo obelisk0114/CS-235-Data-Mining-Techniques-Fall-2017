@@ -21,8 +21,8 @@ public class WikiCFPScraperTemplate {
 		int numOfPages = 20;
 		
 		for (int i = 0; i < category.length; i++) {
-			//CFPcrawl.browse(category[i], 1, numOfPages);
-			CFPcrawl.browse(category[i], 1, 2);
+			CFPcrawl.browse(category[i], 1, numOfPages);
+			//CFPcrawl.browse(category[i], 13, 14);
 		}
 	}
 	
@@ -31,9 +31,8 @@ public class WikiCFPScraperTemplate {
 			
 			// create the output file
 			String fileName = "wikicfp_crawl_" + s + ".txt";
-			File file = new File(fileName);
-			file.createNewFile();
-			FileWriter writer = new FileWriter(file);
+			Writer writer = new BufferedWriter(new OutputStreamWriter(
+				    new FileOutputStream(fileName), "UTF-8"));
 			
 			// now start crawling the all 'numOfPages' pages
 			for (int i = firstPage; i <= numOfPages; i++) {
@@ -49,14 +48,14 @@ public class WikiCFPScraperTemplate {
 					for (int i2 = 0; i2 < out.get(i1).size(); i2++) {
 						String tmp = out.get(i1).get(i2);
 						writer.write(tmp);
-						System.out.print(tmp + "\t");
+						//System.out.print(tmp + "\t");
 						
 						if (i2 < out.get(i1).size() - 1) {
 							writer.write("\t");
 						}
 					}
 					writer.write("\n");
-					System.out.println();
+					//System.out.println();
 				}
 				
 				// IMPORTANT! Do not change the following:
@@ -115,7 +114,7 @@ public class WikiCFPScraperTemplate {
 	public String getPageFromUrl(String link) throws IOException {
 		URL thePage = new URL(link);
 		URLConnection yc = thePage.openConnection();
-		BufferedReader in = new BufferedReader(new InputStreamReader(yc.getInputStream()));
+		BufferedReader in = new BufferedReader(new InputStreamReader(yc.getInputStream(), "UTF-8"));
 		String inputLine;
 		String output = "";
 		while ((inputLine = in.readLine()) != null) {
