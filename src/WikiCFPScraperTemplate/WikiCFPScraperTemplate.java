@@ -29,12 +29,12 @@ public class WikiCFPScraperTemplate {
 	public void browse(String s, int firstPage, int numOfPages) {
 		try {
 			
-			// create the output file
+			// create the output file and use 'UTF-8' encoding
 			String fileName = "wikicfp_crawl_" + s + ".txt";
 			Writer writer = new BufferedWriter(new OutputStreamWriter(
 				    new FileOutputStream(fileName), "UTF-8"));
 			
-			// now start crawling the all 'numOfPages' pages
+			// now start crawling the all 'numOfPages' pages from 'firstPage'
 			for (int i = firstPage; i <= numOfPages; i++) {
 				// Create the initial request to read the first page
 				// and get the number of total results
@@ -72,27 +72,37 @@ public class WikiCFPScraperTemplate {
 	
 	public ArrayList<List<String>> fetch(String content) {
 		ArrayList<List<String>> interesting = new ArrayList<List<String>>();
+		// Select the table
 		int ini = content.indexOf("table cellpadding=\"3\"");
 		
+		// 20 items per page
 		for (int i = 1; i <= 20; i++) {
 			List<String> element = new ArrayList<String>();
+			
+			// Use hyperlink to get acronym
 			int pre = content.indexOf("a href=", ini);
 			pre = content.indexOf(">", pre);
 			int post = content.indexOf("</", pre);
 			String acronym = content.substring(pre + 1, post);
 			element.add(acronym);
 			
+			// Get name
 			pre = content.indexOf("td align=\"left\"", post);
 			pre = content.indexOf(">", pre);
 			post = content.indexOf("</", pre);
 			String name = content.substring(pre + 1, post);
 			element.add(name);
 			
+			// get location
 			pre = content.indexOf("td align=\"left\"", post);
 			pre = content.indexOf("td align=\"left\"", pre + 1);
 			pre = content.indexOf(">", pre);
 			post = content.indexOf("</", pre);
 			String location = content.substring(pre + 1, post);
+			// If location is 'N/A', it is a journal
+			if (location.equals("N/A")) {
+				continue;
+			}
 			element.add(location);
 			
 			ini = post;
@@ -114,6 +124,7 @@ public class WikiCFPScraperTemplate {
 	public String getPageFromUrl(String link) throws IOException {
 		URL thePage = new URL(link);
 		URLConnection yc = thePage.openConnection();
+		// Change encoding to 'UTF-8'
 		BufferedReader in = new BufferedReader(new InputStreamReader(yc.getInputStream(), "UTF-8"));
 		String inputLine;
 		String output = "";
