@@ -21,12 +21,12 @@ public class WikiCFPScraperTemplate {
 		int numOfPages = 20;
 		
 		for (int i = 0; i < category.length; i++) {
-			CFPcrawl.browse(category[i], numOfPages);
-			//CFPcrawl.browse(category[i], 1);
+			//CFPcrawl.browse(category[i], 1, numOfPages);
+			CFPcrawl.browse(category[i], 1, 2);
 		}
 	}
 	
-	public void browse(String s, int numOfPages) {
+	public void browse(String s, int firstPage, int numOfPages) {
 		try {
 			
 			// create the output file
@@ -36,7 +36,7 @@ public class WikiCFPScraperTemplate {
 			FileWriter writer = new FileWriter(file);
 			
 			// now start crawling the all 'numOfPages' pages
-			for (int i = 1; i <= numOfPages; i++) {
+			for (int i = firstPage; i <= numOfPages; i++) {
 				// Create the initial request to read the first page
 				// and get the number of total results
 				String linkToScrape = "http://www.wikicfp.com/cfp/call?conference="
@@ -49,12 +49,14 @@ public class WikiCFPScraperTemplate {
 					for (int i2 = 0; i2 < out.get(i1).size(); i2++) {
 						String tmp = out.get(i1).get(i2);
 						writer.write(tmp);
+						System.out.print(tmp + "\t");
 						
 						if (i2 < out.get(i1).size() - 1) {
 							writer.write("\t");
 						}
 					}
 					writer.write("\n");
+					System.out.println();
 				}
 				
 				// IMPORTANT! Do not change the following:
