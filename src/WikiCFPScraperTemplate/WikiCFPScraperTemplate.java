@@ -16,6 +16,7 @@ public class WikiCFPScraperTemplate {
 		// String category = "databases";
 		// String category = "machine learning";
 		// String category = "artificial intelligence";
+		
 		String[] category = {"data mining"};
 		//String[] category = {"data mining", "databases", "machine learning", "artificial intelligence"};
 		int numOfPages = 20;
@@ -30,7 +31,8 @@ public class WikiCFPScraperTemplate {
 		try {
 			
 			// create the output file and use 'UTF-8' encoding
-			String fileName = "wikicfp_crawl_" + s + ".txt";
+			String s1 = s.replaceAll(" ", "_");
+			String fileName = "wikicfp_crawl_" + s1 + ".txt";
 			Writer writer = new BufferedWriter(new OutputStreamWriter(
 				    new FileOutputStream(fileName), "UTF-8"));
 			
@@ -99,14 +101,14 @@ public class WikiCFPScraperTemplate {
 			pre = content.indexOf(">", pre);
 			post = content.indexOf("</", pre);
 			String location = content.substring(pre + 1, post);
-			// If location is 'N/A', it is a journal
-			if (location.equals("N/A")) {
-				continue;
-			}
 			element.add(location);
 			
+			// If location is 'N/A', it is a journal
+			if (!location.equals("N/A")) {
+				interesting.add(element);
+			}
+			
 			ini = post;
-			interesting.add(element);
 		}
 		
 		return interesting;
