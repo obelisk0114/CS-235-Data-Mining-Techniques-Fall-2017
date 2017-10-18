@@ -37,6 +37,14 @@ public class WikiCFPScraperTemplate {
 			Writer writer = new BufferedWriter(new OutputStreamWriter(
 				    new FileOutputStream(fileName), "UTF-8"));
 			
+			// create the output file to record missing data
+			String checkName = s1 + "_check.txt";
+			File file = new File(checkName);
+			file.createNewFile();
+			FileWriter writer2 = new FileWriter(file); 
+			writer2.write("Start to collect missing data...");
+			writer2.write(System.getProperty( "line.separator" ));
+			
 			// now start crawling the all 'numOfPages' pages from 'firstPage'
 			for (int i = firstPage; i <= numOfPages; i++) {
 				// Create the initial request to read the first page
@@ -46,14 +54,14 @@ public class WikiCFPScraperTemplate {
 				String content = getPageFromUrl(linkToScrape);
 				// parse or store the content of page 'i' here in 'content'
 				// YOUR CODE GOES HERE
-				ArrayList<List<String>> out = fetch(content);
-				for (int i1 = 0; i1 < out.size(); i1++) {
-					for (int i2 = 0; i2 < out.get(i1).size(); i2++) {
-						String tmp = out.get(i1).get(i2);
+				ArrayList<List<List<String>>> out = fetch(content);
+				for (int i1 = 0; i1 < out.get(0).size(); i1++) {
+					for (int i2 = 0; i2 < out.get(0).get(i1).size(); i2++) {
+						String tmp = out.get(0).get(i1).get(i2);
 						writer.write(tmp);
 						//System.out.print(tmp + "\t");
 						
-						if (i2 < out.get(i1).size() - 1) {
+						if (i2 < out.get(0).get(i1).size() - 1) {
 							writer.write("\t");
 						}
 					}
@@ -61,11 +69,33 @@ public class WikiCFPScraperTemplate {
 					//System.out.println();
 				}
 				
+				// Missing occurs
+				if (out.size() == 2) {
+					for (int i11 = 0; i11 < out.get(1).size(); i11++) {
+						for (int i22 = 0; i22 < out.get(1).get(i11).size(); i22++) {
+							String tmp2 = out.get(1).get(i11).get(i22);
+							writer2.write(tmp2);
+							//System.out.print(tmp2 + "\t");
+							
+							if (i22 < out.get(1).get(i11).size() - 1) {
+								writer2.write(" ");
+							}
+						}
+						writer2.write(System.getProperty( "line.separator" ));
+						//System.out.println();
+					}
+				}
+				
 				// IMPORTANT! Do not change the following:
 				Thread.sleep(DELAY * 1000); // rate-limit the queries
 			}
 			
 			writer.close();
+			
+			writer2.write(System.getProperty( "line.separator" ));
+			writer2.write("Collecting missing data end.");
+			writer2.flush();
+			writer2.close();
 		} catch (IOException e) {
 			e.printStackTrace();
 		} catch (InterruptedException e) {
@@ -73,14 +103,18 @@ public class WikiCFPScraperTemplate {
 		}
 	}
 	
-	public ArrayList<List<String>> fetch(String content) {
-		ArrayList<List<String>> interesting = new ArrayList<List<String>>();
+	public ArrayList<List<List<String>>> fetch(String content) {
+		ArrayList<List<List<String>>> pack = new ArrayList<List<List<String>>>();
+		
+		ArrayList<List<String>> interesting = new ArrayList<List<String>>(); // crawl
+		ArrayList<List<String>> empty = new ArrayList<List<String>>();  // empty
 		// Select the table
 		int ini = content.indexOf("table cellpadding=\"3\"");
 		
 		// 20 items per page
 		for (int i = 1; i <= 20; i++) {
 			List<String> element = new ArrayList<String>();
+			List<String> emptyOne = new ArrayList<String>();
 			
 			// Use hyperlink to get acronym
 			int pre = content.indexOf("a href=", ini);
@@ -88,6 +122,11 @@ public class WikiCFPScraperTemplate {
 			int post = content.indexOf("</", pre);
 			String acronym = content.substring(pre + 1, post);
 			element.add(acronym);
+			// Check acronym
+			String tmp1 = i + "_acronym";
+			if (acronym.equals("")) {
+				emptyOne.add(tmp1);
+			}
 			
 			// Get name
 			pre = content.indexOf("td align=\"left\"", post);
@@ -95,6 +134,11 @@ public class WikiCFPScraperTemplate {
 			post = content.indexOf("</", pre);
 			String name = content.substring(pre + 1, post);
 			element.add(name);
+			// Check name
+			String tmp2 = i + "_name";
+			if (acronym.equals("")) {
+				emptyOne.add(tmp2);
+			}
 			
 			// get location
 			pre = content.indexOf("td align=\"left\"", post);
@@ -103,18 +147,31 @@ public class WikiCFPScraperTemplate {
 			post = content.indexOf("</", pre);
 			String location = content.substring(pre + 1, post);
 			element.add(location);
+			// Check location
+			String tmp3 = i + "_location";
+			if (acronym.equals("")) {
+				emptyOne.add(tmp3);
+			}
 			
 			// If location is 'N/A', it is a journal
 			if (!location.equals("N/A")) {
 				interesting.add(element);
+				if (!emptyOne.isEmpty()) {
+					empty.add(emptyOne);
+				}
 			}
 			
 			ini = post;
 		}
 		
-		return interesting;
+		pack.add(interesting);
+		if (!empty.isEmpty()) {
+			pack.add(empty);
+		}
+		
+		return pack;
 	}
-
+	
 	/**
 	 * Given a string URL returns a string with the page contents Adapted from
 	 * example in
