@@ -20,9 +20,10 @@ public class WikiCFPScraperTemplate {
 		String[] category = {"data mining"};
 		//String[] category = {"data mining", "databases", "machine learning", "artificial intelligence"};
 		int numOfPages = 20;
+		int firstPage = 1;
 		
 		for (int i = 0; i < category.length; i++) {
-			CFPcrawl.browse(category[i], 1, numOfPages);
+			CFPcrawl.browse(category[i], firstPage, numOfPages);
 			//CFPcrawl.browse(category[i], 13, 14);
 		}
 	}
