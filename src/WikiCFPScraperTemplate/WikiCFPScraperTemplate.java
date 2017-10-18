@@ -41,9 +41,9 @@ public class WikiCFPScraperTemplate {
 			String checkName = s1 + "_check.txt";
 			File file = new File(checkName);
 			file.createNewFile();
-			FileWriter writer2 = new FileWriter(file); 
+			BufferedWriter writer2 = new BufferedWriter(new FileWriter(file)); 
 			writer2.write("Start to collect missing data...");
-			writer2.write(System.getProperty( "line.separator" ));
+			writer2.newLine();
 			
 			// now start crawling the all 'numOfPages' pages from 'firstPage'
 			for (int i = firstPage; i <= numOfPages; i++) {
@@ -81,7 +81,7 @@ public class WikiCFPScraperTemplate {
 								writer2.write(" ");
 							}
 						}
-						writer2.write(System.getProperty( "line.separator" ));
+						writer2.newLine();
 						//System.out.println();
 					}
 				}
@@ -92,9 +92,9 @@ public class WikiCFPScraperTemplate {
 			
 			writer.close();
 			
-			writer2.write(System.getProperty( "line.separator" ));
-			writer2.write("Collecting missing data end.");
 			writer2.flush();
+			writer2.newLine();
+			writer2.write("Collecting missing data end.");
 			writer2.close();
 		} catch (IOException e) {
 			e.printStackTrace();
