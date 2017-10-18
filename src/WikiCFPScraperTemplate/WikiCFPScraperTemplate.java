@@ -108,16 +108,22 @@ public class WikiCFPScraperTemplate {
 		
 		ArrayList<List<String>> interesting = new ArrayList<List<String>>(); // crawl
 		ArrayList<List<String>> empty = new ArrayList<List<String>>();  // empty
+		
 		// Select the table
 		int ini = content.indexOf("table cellpadding=\"3\"");
+		int end = content.indexOf("/table", ini);
+		int i = 1;
 		
-		// 20 items per page
-		for (int i = 1; i <= 20; i++) {
+		// crawl the table (20 items per page)
+		while (true) {
 			List<String> element = new ArrayList<String>();
 			List<String> emptyOne = new ArrayList<String>();
 			
 			// Use hyperlink to get acronym
 			int pre = content.indexOf("a href=", ini);
+			if (pre >= end || pre == -1) {
+				break;
+			}
 			pre = content.indexOf(">", pre);
 			int post = content.indexOf("</", pre);
 			String acronym = content.substring(pre + 1, post);
@@ -162,6 +168,7 @@ public class WikiCFPScraperTemplate {
 			}
 			
 			ini = post;
+			i++;
 		}
 		
 		pack.add(interesting);
