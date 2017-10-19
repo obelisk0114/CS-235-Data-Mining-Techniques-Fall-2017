@@ -54,7 +54,7 @@ public class WikiCFPScraperTemplate {
 				String content = getPageFromUrl(linkToScrape);
 				// parse or store the content of page 'i' here in 'content'
 				// YOUR CODE GOES HERE
-				ArrayList<List<List<String>>> out = fetch(content);
+				ArrayList<List<List<String>>> out = fetch(i, content);
 				for (int i1 = 0; i1 < out.get(0).size(); i1++) {
 					for (int i2 = 0; i2 < out.get(0).get(i1).size(); i2++) {
 						String tmp = out.get(0).get(i1).get(i2);
@@ -92,7 +92,7 @@ public class WikiCFPScraperTemplate {
 			
 			writer.close();
 			
-			writer2.flush();
+			//writer2.flush();
 			writer2.newLine();
 			writer2.write("Collecting missing data end.");
 			writer2.close();
@@ -103,7 +103,7 @@ public class WikiCFPScraperTemplate {
 		}
 	}
 	
-	public ArrayList<List<List<String>>> fetch(String content) {
+	public ArrayList<List<List<String>>> fetch(int page, String content) {
 		ArrayList<List<List<String>>> pack = new ArrayList<List<List<String>>>();
 		
 		ArrayList<List<String>> interesting = new ArrayList<List<String>>(); // crawl
@@ -112,7 +112,7 @@ public class WikiCFPScraperTemplate {
 		// Select the table
 		int ini = content.indexOf("table cellpadding=\"3\"");
 		int end = content.indexOf("/table", ini);
-		int i = 1;
+		int i = 1;  // item
 		
 		// crawl the table (20 items per page)
 		while (true) {
@@ -121,6 +121,7 @@ public class WikiCFPScraperTemplate {
 			
 			// Use hyperlink to get acronym
 			int pre = content.indexOf("a href=", ini);
+			// After the table or not find
 			if (pre >= end || pre == -1) {
 				break;
 			}
@@ -129,7 +130,7 @@ public class WikiCFPScraperTemplate {
 			String acronym = content.substring(pre + 1, post);
 			element.add(acronym);
 			// Check acronym
-			String tmp1 = i + "_acronym";
+			String tmp1 = page + "_" + i + "_acronym";
 			if (acronym.equals("")) {
 				emptyOne.add(tmp1);
 			}
@@ -141,8 +142,8 @@ public class WikiCFPScraperTemplate {
 			String name = content.substring(pre + 1, post);
 			element.add(name);
 			// Check name
-			String tmp2 = i + "_name";
-			if (acronym.equals("")) {
+			String tmp2 = page + "_" + i + "_name";
+			if (name.equals("")) {
 				emptyOne.add(tmp2);
 			}
 			
@@ -154,8 +155,8 @@ public class WikiCFPScraperTemplate {
 			String location = content.substring(pre + 1, post);
 			element.add(location);
 			// Check location
-			String tmp3 = i + "_location";
-			if (acronym.equals("")) {
+			String tmp3 = page + "_" + i + "_location";
+			if (location.equals("")) {
 				emptyOne.add(tmp3);
 			}
 			

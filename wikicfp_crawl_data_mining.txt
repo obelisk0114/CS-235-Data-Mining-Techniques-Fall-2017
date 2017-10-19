@@ -74,8 +74,8 @@ INCISCOS 2017	2nd International Conference on Information Systems and Computer S
 BDCAT 2017	The 4th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies	Austin, Texas, USA
 IEEE - ICKEA 2017	IEEE--2017 2nd International Conference on Knowledge Engineering and Applications (ICKEA 2017)--Ei Compendex and Scopus	London, United Kingdom
 ACM - ICBDR 2017	ACM--2017 International Conference on Big Data Research (ICBDR 2017) -- Ei Compendex & Scopus	Osaka, Japan
-TRAP 2017	First European Conference on Traffic Mining Applied to Police Activities	Rome
 DSHCM  2017	Final Call for Papers - The 1st International Workshop on Data Science for Human Capital Management (collocated with IEEE ICDM'17)	New Orleans, LA, USA
+TRAP 2017	First European Conference on Traffic Mining Applied to Police Activities	Rome
 BDVA 2017	International Symposium on Big Data Visual Analytics	Adelaide, Australia
 ICT & KE 2017	The 15th International Conference on ICT and Knowledge Engineering	Bangkok, Thailand
 ICDM ARIAL 2017	1st Workshop on Data mining for Aging, Rehabilitation and Independent Assisted Living (ARIAL) in conjunction with International Conference on Data Mining (ICDM'2017)	New Orleans, USA
@@ -87,17 +87,17 @@ DMCS  2017	DMCS - Data Mining for Cyber Security 2017 (collocated with IEEE ICDM
 ICDM - MoDAT 2017	The 5th International Workshop on the Market of Data - Creating tools, data, and sensors from the Social Intelligence 	New Orleans, USA
 IEEE Big Data 2017	2017 IEEE International Conference on Big Data	Boston, MA, USA
 ACUMEN 2017	Data Science for Human Performance in Social Networks	ICDM17, New Orleans, USA
-ACML 2017	The 9th Asian Conference on Machine Learning	Seoul, Korea
 ACML  2017	The 9th Asian Conference on Machine Learning	Seoul, Korea
 ICCBDC - ACM 2017	International Conference on Cloud and Big Data Computing (ICCBDC 2017)--Ei Compendex and Scopus	London, UK
+ACML 2017	The 9th Asian Conference on Machine Learning	Seoul, Korea
 ICICT 2017	CFP - The IEEE International Conference ICICT at India, Due: 4 Aug 2017	India
 ICPET 2017	International Conference on Promising Electronic Technologies 2017	Deir El-Balah, Palestine
 HPGDML 2017	High Performance Graph Data Mining and Machine Learning Workshop	New Orleans, USA
 FICC 2018	The FICC 2018 at Singapore, Paper Submission Due: August 1st 2017	Singapore
 SCDS 2017	3rd International Conference on Soft Computing in Data Science	Yogyakarta, Indonesia
 BAFI 2018	Business Analytics in Finance and Industry	Santiago, Chile
-GISCUP  2017	The 6th GIS-focused algorithm competition, GISCUP 2017	Los Angeles, CA
 【Ei/ SCOPUS】AIAAT 2017	【Ei/ SCOPUS】2017 International Conference on Artificial Intelligence Applications and Technologies(AIAAT 2017)	Hawaii, USA
+GISCUP  2017	The 6th GIS-focused algorithm competition, GISCUP 2017	Los Angeles, CA
 DARE 2017	ECML PKDD 2017, 5th International Workshop on Data Analytics for Renewable Energy Integration	Skopje, Macedonia
 ADMA 2017	The 13th International Conference on Advanced Data Mining and Applications	Singapore
 Workshop on Massive Dataflow Analysis 2017	In conjunction The 14th ACS/IEEE International Conference on Computer Systems and Applications (AICCSA 2017)	Hammamet, Tunisia
@@ -111,9 +111,9 @@ IEEE ITOEC 2017	2017 IEEE 3rd Information Technology and Mechatronics Engineerin
 MLSA 2017	Machine Learning and Data Mining for Sports Analytics (Workshop @ ECML/PKDD 2017)	Skopje
 SoGood 2017	2nd Workshop on Data Science for Social Good @ ECML PKDD	Skopje, Macedonia
 ICDIM 2017	Twelfth International Conference on Digital Information Management 	Fukuoka, Japan
-MoD@ITSC 2017	1st ITSC Workshop on Modelling, Analysis and Control of Intelligent Mobility-on-Demand Systems	Yokohama, Japan
 IDEAL 2017	18th International Conference on Intelligent Data Engineering and Automated Learning 	Guilin, China
 DMBD 2017	DMBD'2017：Call for Papers (Jan. 30, 2017)	Fukuoka, Japan
+MoD@ITSC 2017	1st ITSC Workshop on Modelling, Analysis and Control of Intelligent Mobility-on-Demand Systems	Yokohama, Japan
 KDD 2017	Call for Participation: KDD'17 registration is now open	Halifax, Nova Scotia, Canada
 RecSysKTL 2017	Workshop on Intelligent Recommender Systems by Knowledge Transfer and Learning	Como, Italy
 KDD 2017	KDD 2017 Startup Travel Awards - Final Call for Applications	Halifax, Nova Scotia
@@ -134,16 +134,16 @@ Fashion-ML-KDD 2017	Machine Learning Meets Fashion 	Halifax, Nova Scotia - Canad
 MLG 2017	13th International Workshop on Mining and Learning with Graphs	Halifax, Nova Scotia, Canada
 CD 2017	The 2017 ACM SIGKDD Workshop on Causal Discovery 	Halifax, Nova Scotia, Canada
 SML 2017	IJCAI Workshop on Semantic Machine Learning (SML 2017)  	Melbourne, Australia
-LDM 2017	The 2017 International Workshop on Linked Data Mining	Hefei, China
-EvoNets@DSAA 2017	Special Session on on Evolving Networks - DSAA'2017	Tokyo, Japan
 DSSD 2017	Data Science in Societal Debates	Tokyo, Japan
 Game Data Science 2017	Special Session on Game Data Science at IEEE DSAA2017	Tokyo
+LDM 2017	The 2017 International Workshop on Linked Data Mining	Hefei, China
+EvoNets@DSAA 2017	Special Session on on Evolving Networks - DSAA'2017	Tokyo, Japan
 AKTS 2017	Special Session on Innovative Applications for Knowledge Transfer Support	Druskininkai, Lithuania
 BIOKDD 2017	International Workshop on Data Mining in Bioinformatics (BIOKDD'17)	Halifax, Canada
 CIARP 2017	22nd Iberoamerican Congress on Pattern Recognition	Valparaiso, Chile
-SBDDE 2017	 International Workshop on Social and Big Data in Digital Ecosystems	Bangkok, Thailand
 INIT/AERFAISummerSchoolML 2017	INIT/AERFAI Summer School on Machine Learning	Benicàssim (Spain)
 DIM 2017	Extended: The Six IEEE International Workshop on Data Integration and Mining	San Diego, USA
+SBDDE 2017	 International Workshop on Social and Big Data in Digital Ecosystems	Bangkok, Thailand
 IDA 2017	The Sixteenth International Symposium on Intelligent Data Analysis	London, UK
 DIPDMWC 2017	The Fourth International Conference on Digital Information Processing, Data Mining and Wireless Communication (DIPDMWC2017)	Universitas Mercu Buana - Meruya Campus
 WISE 2017	WISE 2017: The 18th International Conference on Web Information Systems Engineering	Moscow, Russia
@@ -151,15 +151,15 @@ DTWSM 2017	The 4th International Workshop on Data, Text, Web, and Social Network
 Workshop - DMIN 2017	Workshop on Data Mining in Transportation Security	Las Vegas, Nevada
 DTMN 2017	3rd International Conference on Data Mining	Dubai, UAE
 DMDB 2017	4th International Conference on Data Mining and Database	Vienna, Austria
-KDD 2017	CALL FOR 2017 ACM SIGKDD INNOVATION AND SERVICE AWARDS NOMINATIONS	Halifax, Nova Scotia, Canada
 WPRSM 2017	The International Workshop on Web Personalization, Recommender Systems and Social Media	Leipzig, Germany 
+KDD 2017	CALL FOR 2017 ACM SIGKDD INNOVATION AND SERVICE AWARDS NOMINATIONS	Halifax, Nova Scotia, Canada
 COREDEMA 2017	3rd International Workshop on Conflict Resolution in Decision Making	Melbourne, Austrailia
 AIST 2017	The 6th International Conference on Analysis of Images, Social Networks, and Texts	Moscow, Russia
 APDM 2017	IJCAI 2017 Workshop: Abuse Preventive Data Mining 2017	Melbourne
-KES PR TAC 2017	Extended Deadline KES 2017 Session on Pattern Recognition: Trends, Applications and Challenges	Marseille, France
 BI 2017	The 2017 International Conference on Brain Informatics	Beijing, China
 KDD 2017	ACM SIGKDD TEST-OF-TIME PAPER AWARDS - CALL FOR NOMINATION	Halifax, Nova Scotia, Canada
 AIM@EPIA 2017	Artificial Intelligence in Medicine	Porto, Portugal
+KES PR TAC 2017	Extended Deadline KES 2017 Session on Pattern Recognition: Trends, Applications and Challenges	Marseille, France
 GTM 2017	7th Global TechMining Conference	Atlanta, GA
 KDD 2017	2017 SIGKDD Doctoral Dissertation Award	Halifax, Nova Scotia, Canada
 DSCI 2017	CFP deadline Apr 28 23:59 GMT, Data Science and Computational Intelligence@San Francisco, USA	San Francisco
@@ -168,7 +168,6 @@ WPDM 2017	The first International Workshop on Parallel Data Mining	Genoa, Italy
 ST-Analytics 2017	Advances in Spatio-Temporal Analytics	Trieste, Italy
 IEEE ISI 2017	The 2017 IEEE International Conference on Intelligence and Security Informatics (ISI)	Beijing
 IEEE ISI 2017	2017 IEEE International Conference on Intelligence and Security Informatics	Beijing, China
-DMCIT 2017	ACM-2017 International Conference on Data Mining, Communications and  Information Technology(DMCIT 2017)--EI	Phuket
 IEEE ISI 2017	IEEE International Conference on Intelligence and Security Informatics (ISI)	Beijing, China
 Special Session in SMC 2017	Special Session on Information Systems for Design and Marketing in IEEE SMC 2017	Banff, Canada
 AI 2017	30th Australasian Joint Conference on Artificial Intelligence	Melbourne, Australia
@@ -193,16 +192,16 @@ DATA 2017	6th International Conference on Data Science, Technology and Applicati
 FUSION 2017	20th International Conference on Information Fusion	Xi'an, China
 DMA  2017	Third International Conference on Data Mining and Applications	Geneva,Switzerland
 ICOK 2017	2017 2nd International Conference on Knowledge (ICOK 2017)	Chengdu, China
-KDD 2017	Call for Workshop Proposals	Halifax, Nova Scotia, Canada
 KDD 2017	Call for Tutorials	Halifax, Nova Scotia, Canada
+KDD 2017	Call for Workshop Proposals	Halifax, Nova Scotia, Canada
 LDK 2017	Language, Data and Knowledge	Galway/Ireland
 GeoRich @ ACM SIGMOD/PODS 2017	GeoRich 2017 - ACM SIGMOD Workshop on Managing and Mining Enriched Geo-Spatial Data	Raleigh, NC, USA
 KDD 2017	Call for Research Papers	Halifax, Nova Scotia, Canada
 KDD 2017	Call for Applied Data Science Papers	Halifax, Nova Scotia, Canada
 FASOMA 2017	Special Session on Foundations and Applications of Social Media Analysis	Naples, Italy
 ICFCC - Ei 2017	2017 9th International Conference on Future Computer and Communication (ICFCC 2017) - Ei & Scopus	Nagoya, Japan
-KES IDT DSS 2017	KES IDT - Decision Support Systems - Special Session	Vilamoura, Algarve, Portugal
 KES IDT DSS 2017	extended deadline and scope of the KES IDT DSS 2017 : KES IDT - Decision Support Systems - Special Session	Vilamoura, Algarve, Portugal
+KES IDT DSS 2017	KES IDT - Decision Support Systems - Special Session	Vilamoura, Algarve, Portugal
 HAIS 2017	The 12th International Conference on Hybrid Artificial Intelligence Systems	Logroño (La Rioja) Spain
 HAIS 2017	The 12th International Conference on Hybrid Artificial Intelligence Systems	La Rioja, Spain
 ISMIS 2017	23rd International Symposium on Methodologies for Intelligent Systems	Warsaw, Poland
@@ -221,11 +220,11 @@ ISMIS 2017 DM Competition  2017	ISMIS 2017 Data Mining Competition 	Online
 ParLearning 2017	The 6th International Workshop on Parallel and Distributed Computing for Large Scale Machine Learning and Big Data Analytics	Orlando, Florida, USA
 WOW 2017	Workshop on Web Observatories, Social Machines and Decentralisation	Perth, Australia
 KES-IDT / IABIRP 2017	IS06: Interdisciplinary Approaches in Business Intelligence Research and Practice	Vilamoura, Algarve, Portugal
-NextComp 2017	Next Generation Computing Applications (NextComp2017) Conference 	Mauritius
 MLDM 2017	Machine Learning and Data Mining in Pattern Recognition	New York, USA
 CORES 2017	10th International Conference on Computer Recognition Systems	Polanica Zdroj, Poland
 CCML 2017	The 16th China Conference on Machine Learning	Tianjin China
 PICICT 2017	Second Palestinian International Conference on Information and Communication Technology (PICICT 2017)	Gaza ( Palestine )
+NextComp 2017	Next Generation Computing Applications (NextComp2017) Conference 	Mauritius
 DKMP 2017	Fifth International Conference on Data Mining & Knowledge Management Process	Dubai , UAE
 SoMePeAS 2017	ECIR 2017 Workshop on “Social Media for Personalization And Search”	Aberdeen, Scotland (UK)
 DM4OG 2017	﻿Workshop on Data Mining for Oil & Gas	Texas, USA
@@ -233,8 +232,8 @@ iDSC 2017	1st International Data Science Conference	Salzburg, Austria
 SCESM Special Session IoT  2017	SCESM 2017 Special Session on Security and Privacy Issue in WSN and IoT	Jain College of Enginee, Belgaum, Goa
 dmmooc 2017	The First International Workshop on Data Management and Mining on MOOCs	Suzhou
 SeCoP 2017	The 4th International Workshop on Semantic Computing and Personalization	Suzhou, China
-AKG 2017	NTCIR-13 Actionable Knowledge Graph (AKG) Task	Tokyo
 IEA/AIE NAAD 2017	Special Track on Novel Approaches to Anomaly Detection	Arras, France
+AKG 2017	NTCIR-13 Actionable Knowledge Graph (AKG) Task	Tokyo
 SmartMedDev  2017	Special Session on Smart Medical Devices - From Lab to Clinical Practice - SmartMedDev 2017	Porto, Portugal
 DMAP 2016	Second International Conference on Data Mining and Applications	Vienna, Austria
 KDD Cup 2017	Call for Proposals	Halifax, Nova Scotia, Canada
@@ -361,3 +360,4 @@ SNAA 2016	The 6th Workshop on Social Network Analysis in Applications	UC Davis, 
 ITBAM 2016	7th International Conference on Information Technology in Bio- and Medical Informatics	Porto
 ECML-PKDD 2016	European Conference on Machine Learning and Principles and Practice of Knowledge Discovery	Riva del Garda
 Big Data  2016	International Conference on Big Data	Alicante, Spain
+ICIS- 2016	IEEE International Conference in  Information Science,Kochi	Kochi, Kerala
