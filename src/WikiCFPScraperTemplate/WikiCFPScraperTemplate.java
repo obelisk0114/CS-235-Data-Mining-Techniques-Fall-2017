@@ -69,7 +69,7 @@ public class WikiCFPScraperTemplate {
 					//System.out.println();
 				}
 				
-				// Missing occurs
+				// If missing occurs
 				if (out.size() == 2) {
 					for (int i11 = 0; i11 < out.get(1).size(); i11++) {
 						for (int i22 = 0; i22 < out.get(1).get(i11).size(); i22++) {
@@ -127,7 +127,7 @@ public class WikiCFPScraperTemplate {
 			}
 			pre = content.indexOf(">", pre);
 			int post = content.indexOf("</", pre);
-			String acronym = content.substring(pre + 1, post);
+			String acronym = content.substring(pre + 1, post).trim();
 			element.add(acronym);
 			// Check acronym
 			String tmp1 = page + "_" + i + "_acronym";
@@ -139,7 +139,7 @@ public class WikiCFPScraperTemplate {
 			pre = content.indexOf("td align=\"left\"", post);
 			pre = content.indexOf(">", pre);
 			post = content.indexOf("</", pre);
-			String name = content.substring(pre + 1, post);
+			String name = content.substring(pre + 1, post).trim();
 			element.add(name);
 			// Check name
 			String tmp2 = page + "_" + i + "_name";
@@ -152,7 +152,7 @@ public class WikiCFPScraperTemplate {
 			pre = content.indexOf("td align=\"left\"", pre + 1);
 			pre = content.indexOf(">", pre);
 			post = content.indexOf("</", pre);
-			String location = content.substring(pre + 1, post);
+			String location = content.substring(pre + 1, post).trim();
 			element.add(location);
 			// Check location
 			String tmp3 = page + "_" + i + "_location";
