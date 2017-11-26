@@ -1,0 +1,1805 @@
+Daegu, South Korea: 
+    ISIS 2017
+Helsinki, Finland: 
+    IEEE FRUCT 2017
+    DTWSM 2017
+    ICDE 2016
+Gaithersburg, USA: 
+    NISTBigData 2012
+Marrakech, Morocco: 
+    ACM SAC-RS 2017
+    DATA STREAMS TRACK 2017
+Phuket, Thailand: 
+    ICAPM - Scopus, EI 2018
+    ICMM--Ei & Scopus 2018
+    ISMSI--Ei Compendex, Scopus and ISI 2018
+    ICMAM - Ei 2017
+    CSMO 2017
+    DMCIT 2017
+    DMCIT-EI 2017
+    ICAPM - Scopus, EI 2018
+    ISMSI--Ei, Scopus and ISI 2018
+    ICMAM - Ei 2017
+San Jose, USA: 
+    SoCC 2013
+    SOCC 2012
+Aizu-Wakamatsu, Japan: 
+    DNIS 2011
+Jinan, China: 
+    ICMLT--Ei and Scopus 2018
+    SPIE--IWPR--Ei Compendex, Scopus 2018
+    ICMLT--Ei and Scopus 2018
+    IWPR--SPIE, Ei Compendex, Scopus 2018
+Macau, China: 
+    ICMLC - Ei 2018
+    ACM - ICBDM 2018
+    ICBDM - Ei 2018
+    Oriental COCOSDA 2012
+    ACM - ICMLC 2018
+Kuala Lumpur, Malaysia: 
+    ICCRI--EI, Scopus 2018
+    ICMME - Ei 2017
+    ICSN 2017
+    DaEng 2013
+    BDI 2013
+    ACIIDS 2013
+    SCDS 2016
+Naples, Italy: 
+    NIC 2018
+    CILC 2017
+    FSAG@FUZZ-IEEE 2017
+    FASOMA 2017
+    NIC 2018
+Athens, Greece: 
+    EANN 2017
+    IC-ININFO 2016
+    SSCI 2016
+    COMOREA 2018
+    EnDM 2014
+    LWDM 2014
+    GraphQ 2014
+    EDBT/ICDT Tutorials 2014
+    EDBT 2014
+    EDBT/ICDT Workshops 2014
+    HDMS 2011
+    DBSocial 2011
+    DaMoN 2011
+    DBTest 2011
+    MobiDE 2011
+    IDAR 2011
+    EmotionAware 2018
+    SSCI 2016
+Okinawa, Japan: 
+    ASRU 2017
+Sorrento Coast, Italy: 
+    SEBD 2014
+Casablanca, Morocco: 
+    Ei - ICBDSC 2018
+    Ei - ICBDSC 2018
+    INTECH  2012
+Genoa, Italy: 
+    WPDM 2017
+    BiDaTA 2013
+    PAIS 2013
+    GraphQ 2013
+    EnDM 2013
+    EnDM@EDBT 2013
+    BEWEB 2013
+    BIGProv 2013
+    EDBT 2013
+    ICDT 2013
+    PCNN 2017
+Boston, USA: 
+    WAAISC 2017
+    SocialNLP 2017
+    SABID 2017
+    SABID 2017
+    IEEE Big Data 2017
+    ACM-BCB 2017
+    IEEE Big Data 2017
+    RWVW 2013
+    2nd BDTL Workshop 2017
+    PAPIs 2017
+    ACM-BCB 2017
+    DLRS 2016
+Kazan, Russia: 
+    SYRCoDIS 2013
+Rabat, Morocco: 
+    MedPRAI 2018
+    LOPAL 2018
+Toledo, Spain: 
+    DCAI 2018
+Bucharest, Romania: 
+    RAAI 2017
+    AgTAmI 2017
+    ICMR 2017
+Leon, Spain: 
+    HPCAC 2016
+Marburg, Germany: 
+    SUM 2012
+Bergamo, Italy: 
+    IFAC INCOM SIMCA 2018
+Malaga, Spain: 
+    Smart-CT 2017
+Irvine, USA: 
+    NAHO 2017
+Clermont-Ferrand, France: 
+    TC4SP 2011
+Paphos, Cyprus: 
+    CSE 2012
+    WISE 2012
+    exploreWeb 2011
+Chiang Mai, Thailand: 
+    ICGHIT 2018
+Thessaloniki, Greece: 
+    INISTA  2018
+    ICCTIM 2017
+    INISTA  2018
+    MHDW 2016
+    SMLIR 2016
+Denver, USA: 
+    MLHPC 2017
+Lome, Togo: 
+    IREHI 2017
+Aalborg, Denmark: 
+    CSE 2013
+Chennai, India: 
+    BioS 2017
+    CSTY 2017
+    AI 2017
+    SIGI 2017
+    MEDS 2017
+    ICCIDS 2017
+    AI 2017
+    AI 2017
+    BioS 2017
+    ICCIDS 2017
+Dong Hoi City, Vietnam: 
+    ACIIDS 2018
+Napoli, Italy: 
+    HFR 2017
+Hyderabad, India: 
+    MIKE 2017
+    BDA 2017
+    BigDF 2016
+    COMAD 2014
+    MIKE 2017
+    BigDF 2016
+Chemnitz, Germany: 
+    FDM 2017
+Alicante, Spain: 
+    Big Data  2016
+Orleans, France: 
+    PLP 2017
+    ILP 2017
+    ILP 2017
+Seville, Spain: 
+    Robot 2017
+Porto, Portugal: 
+    CIAALS 2018
+    AITS@EPIA 2017
+    MASTA@EPIA 2017
+    EPIA 2017
+    DCAI 2017
+    WASMM 2017
+    SCIA@PAAMS 2017
+    AIM@EPIA 2017
+    WASMM 2017
+    SmartMedDev  2017
+    ICDIM 2016
+    ITBAM 2016
+    AIM@EPIA 2017
+    AICPDES 2017
+    KALSIMIS 2017
+    SmartMedDev  2017
+    ICPRAM 2017
+Coimbra, Portugal: 
+    ASIIS (ACM SAC) 2013
+    ACM - DTTA Track 2013
+Quito, Ecuador: 
+    INCISCOS 2017
+    INCISCOS 2016
+    JISIC 2017
+Florence, Italy: 
+    ICOAI 2017
+    ECDM 2012
+    MORE-BI 2012
+South Padre Island, USA: 
+    ICDIS 2018
+Madrid, Spain: 
+    ICCST 2017
+    DATA 2017
+    COMPRAIL 2016
+    DATA 2017
+    ICCST 2017
+Brisbane, Australia: 
+    Ei - ICCAE 2018
+    ADC 2014
+    MDM 2014
+    SMDB 2013
+    PrivDB 2013
+    GDM 2013
+    ICDE 2013
+    Ei - ICVARS 2018
+Pisa, Italy: 
+    SHEIQL-2017
+Cracow, Poland: 
+    TFML 2017
+Lakeland, USA: 
+    ICISDM--IEEE Xplore, Ei and Scopus 2018
+    ICCDA - ACM 2017
+    ICCDA-Ei 2017
+St. Petersburg, Russia: 
+    ACM--ICMCE 2017
+    IEEE-ICMSC 2017
+    ISMW FRUCT 2016
+    ACM--ICMCE 2017
+    IEEE-ICMSC 2017
+Pointe aux Piments, Mauritius: 
+    IEEE - ISCMI 2017
+    NextComp 2017
+    ISCMI - IEEE 2017
+Cairo, Egypt: 
+    AISI 2017
+    AMLTA 2018
+    AISI 2017
+Graz, Austria: 
+    ALatIKNOW 2016
+    ODBASE 2013
+    SAMI4.0 2017
+    ALatIKNOW 2016
+Perth, Australia: 
+    CyberSafety 2017
+    BigScholar 2017
+    BigNet 2017
+    WOW 2017
+Los Angeles, USA: 
+    HeteroNAM 2018
+    MIS2 @ WSDM 2018
+    GISCUP  2017
+    SIGSPATIAL 2017
+    KBCOM 2018
+    MIS2 @ WSDM 2018
+    ICMLA 2016
+Penang, Malaysia: 
+    CSPA 2018
+    ICKD 2017
+    ISCI 2012
+Petrozavodsk, Russia: 
+    IEEE FRUCT 2018
+New YorkCity, USA: 
+    MLDM 2017
+Bristol, UK: 
+    IDEAS 2017
+Seoul, South Korea: 
+    ICBBE - Ei 2017
+    ICBEF 2017
+    ACML  2017
+    7th ICITCS 2017
+    IE 2017
+    ACML 2017
+    ACML  2017
+    BDTA 2016
+    BDTA 2016
+    SSTD 2015
+    DEOS 2014
+    EDB 2012
+    ACML 2017
+    ACML  2017
+    7th ICITCS 2017
+San Francisco, USA: 
+    BASC 2017
+    DSCI 2017
+    DSCI 2017
+    UrbComp 2016
+    ODD 2016
+    IDEA 2016
+    EI-KDD 2016
+    MLG 2016
+    CD 2016
+    SIGMOD 2016
+    CloudDB 2013
+    NoCoDA 2013
+    DIM 2013
+    BASC 2017
+    DSCI 2017
+Taormina-Sicily, Italy: 
+    MESS 2018
+Roccella Jonica, Italy: 
+    SEBD  2013
+Moscow, Russia: 
+    ICMSC - Ei 2018
+    ICKEA--IEEE, Ei Compendex & Scopus 2018
+    WISE 2017
+    AIST 2017
+    EEML 2016
+    DIPDMWC 2016
+    WISE 2017
+    SYRCoDIS 2012
+Chicago, USA: 
+    GeoRich 2017
+    GeoRich 2017
+    MWDHealth 2016
+    GeoRich 2017
+    GeoRich 2017
+    WebDB 2017
+    DMC 2014
+    SMDB 2014
+    CloudDB 2014
+    GDM 2014
+    ICDE 2014
+    MWDHealth 2016
+Newark, USA: 
+    ICCBB 2017
+Washington DC, USA: 
+    BigGraphs 2016
+    BigGraphs 2016
+    SABID 2016
+    SDAAM 2017
+    SCDM 2014
+    BBH 2014
+    BDSAV 2013
+    SMDB 2012
+    DMC 2012
+    SDMSM 2012
+    STIR 2012
+    GDM 2012
+    HFR 2017
+    BigGraphs 2016
+    Big EMPS 2016
+    AIPR 2016
+Bordeaux, France: 
+    FoIKS 2014
+Ho Chi Minh, Vietnam: 
+    ICMCR - Ei & Scopus 2018
+New Orleans, USA: 
+    AAAI-ATSE 2018
+    MPREF  2018
+    AAAI 2018
+    DMIP 2017
+    DSHCM  2017
+    ICDM ARIAL 2017
+    SERecSys 2017
+    DAPS 2017
+    HighStream@ICDM 2017
+    HighStream@ICDM 2017
+    DMCS  2017
+    ICDM - MoDAT 2017
+    ACUMEN 2017
+    HPGDML 2017
+    ICDM 2017
+    ICDM 2017
+    NAACL HLT 2018
+    DMIP 2017
+    DSHCM  2017
+    HPGDML 2017
+Brussels, Belgium: 
+    DAPHNE 2015
+    DBDBD 2012
+Changsha, China: 
+    APWeb 2014
+Isfahan, Iran: 
+    MVIP 2017
+Nantes, France: 
+    WOD 2012
+    WOD  2012
+Cancun, Mexico: 
+    MLPMEA 2017
+    ICMLA 2017
+    VAAM 2016
+Krabi, Thailand: 
+    ACIS 2016
+Leipzig, Germany: 
+    WI 2017
+    WPRSM 2017
+    SPECOM 2018
+Pau, France: 
+    KRR@SAC 2018
+    ACM SAC-COCO 2018
+    ACM SAC-RS 2018
+    ACM SAC-RS 2018
+Santa Fe, USA: 
+    COSIT 2015
+Dubai, UAE: 
+    NATP  2017
+    JSE 2018
+    ITCS 2018
+    ARIN 2017
+    MECN 2017
+    ACLing 2017
+    IEEE--ISCBI 2017
+    ITCCMA 2017
+    AIFZ 2017
+    CSITY 2017
+    ICIST  2017
+    ADCOM 2017
+    DMS 2018
+    DMAP 2017
+    CSITEC 2017
+    DTMN 2017
+    DKMP 2017
+    ISCMI 2016
+    ARIA 2018
+    DMS 2018
+    DMAP 2017
+    DTMN 2017
+    AIFU 2017
+    NTMS 2014
+    NeTCoM 2017
+    NLP 2018
+    CST 2018
+    MECN 2017
+    NWCOM 2017
+    SIPRO 2017
+    ISCMI 2016
+Norten-Hardenberg, Germany: 
+    GvDB 2016
+Melaka, Malaysia: 
+    ISCIA 2017
+Quebec, Canada: 
+    SUM 2015
+Bangalore, India: 
+    MDM 2012
+    COMAD 2011
+    AIMSA Bangalore 2017
+Ouro Preto, Brazil: 
+    AMW 2012
+La Rioja, Spain: 
+    HAIS 2017
+    HAIS 2017
+    HAIS 2017
+Cordoba, Argentina: 
+     SLIOIA/ASAI 2017
+Portland, USA : 
+    CISC 2017
+Vienna, Austria: 
+    ICMV 2017
+    WOMoCoE 2017
+    ISWC poster&demo 2017
+    ISWC 2017
+    AIAP 2017
+    MECH 2017
+    CCSEIT 2017
+    CSEN 2017
+    DMDB 2017
+    DMAP 2016
+    EDBT 2018
+    DMDB 2017
+    DMAP 2016
+    DATA 2014
+    DBLM 2012
+    DaWaK 2012
+    RSmeetDB 2012
+    GeoDBIS 2011
+    GID 2011
+    ADBIS 2011
+    ICMV 2017
+    AIAP 2017
+    MECH 2017
+Saarbrucken, Germany: 
+    NLG4DS 2017
+Lodz, Poland: 
+    KAM 2015
+    ICIA 2013
+Long Beach, USA: 
+    NIPS 2017
+    NIPS DISCML 2017
+    NIPS ML4H 2017
+    NIPS-CAI 2017
+    NIPS 2017
+Manila, Philippines: 
+    ICICC - Ei 2018
+    MACE - Ei 2018
+Bari, Italy: 
+    AI*AAL.it 2017
+    AI*IA 2017
+    DS 2016
+Liege, Belgium: 
+    NLDB 2017
+Portoroz, Slovenia: 
+    ESWC 2017
+Bern, Switzerland: 
+    SDS 2017
+TU Dortmund, Germany: 
+    DT  2017
+Munich, Germany: 
+    ECCV 2018
+    Algorithmic news 2018
+    DaWaK 2014
+    AECM 2014
+    SSTD 2013
+    ECCV 2018
+Bandar Seri Begawan, Brunei: 
+    DEAs 2017
+    MIWAI 2017
+    MIWAI 2017
+    DEAs 2017
+    SoDM 2016
+    CIIS 2016
+    SoDeLIA 2017
+Guayaquil, Ecuador: 
+    CITI 2016
+Amantea, Italy: 
+    ODBASE 2014
+    MEDI 2013
+Salt Lake City, USA: 
+    CVPR 2018
+    PDAC 2012
+    CVPR 2018
+    MLHPC 2016
+Yangzhou, China: 
+    IDEAL  2016
+Gdynia, Poland: 
+    DADE 2017
+Trento, Italy: 
+    DBPL 2013
+    BIRTE 2013
+    VLDB 2013
+Opatija, Croatia: 
+    miproBIS 2013
+Troms, Norway: 
+    SCIA  2017
+Oxford, UK: 
+    UKAIS 2018
+    DEOS 2013
+    BNCOD 2013
+Gold Coast, Australia: 
+    ADMA 2016
+Marco Island, USA: 
+    EAST - FLAIRS 2017
+    FLAIRS 2017
+    CBR@FLAIRS 2017
+    FLAIRS 2017
+    RecSys@FLAIRS 2017
+Varazdin, Croatia: 
+    CECIIS 2011
+Halifax, Canada: 
+    KDD 2017
+    KDD 2017
+    KDD 2017
+    IDEA 2017
+    UrbComp 2017
+    KDD MiLeTS Workshop 2017
+    Fashion-ML-KDD 2017
+    MLG 2017
+    CD 2017
+    BIOKDD 2017
+    KDD 2017
+    KDD 2017
+    KDD 2017
+    KDD 2017
+    KDD 2017
+    KDD 2017
+    KDD 2017
+    KDD Cup 2017
+    KDD Cup 2017
+    KDD 2017
+    KDD 2017
+    WISDOM 2017
+    Fashion-ML-KDD 2017
+    CD 2017
+    BIOKDD 2017
+    KDD ADF 2017
+    KDD 2017
+    KDD 2017
+    KDD 2017
+    KDD 2017
+    KDD 2017
+    KDD 2017
+    KDD 2017
+    KDD Cup 2017
+    KDD Cup 2017
+Alghero, Italy: 
+    ICANN 2017
+Tianjin, China: 
+    CCML 2017
+    CCML 2017
+    CCML 2017
+Winterthur, Switzerland: 
+    SwissText 2017
+Olsztyn, Poland: 
+    IJCRS 2017
+    RABiD 2017
+Anaheim, USA: 
+    MLPM 2016
+    MLPM 2016
+    MLSCPS 2016
+Vilnius, Lithuania: 
+    BalticDB&IS 2012
+    BalticDB&IS 2012
+Bath, Uk : 
+    AISB 2017
+Oldenburg, Germany: 
+    EnviroInfo 2014
+Como, Italy: 
+    RecSysKTL 2017
+    RecSysKTL 2017
+    RecSysKTL 2017
+Columbus, USA: 
+    SISSY 2017
+Rome, Italy: 
+    TRAP 2017
+    ICE-B 2012
+    IASIM 2012
+    SOMOCO 2012
+    NIMD 2012
+    DATA 2012
+    DCNET 2012
+    DCNET 2012
+    DATA 2012
+Snowbird, USA: 
+    PODS 2014
+Busan, South Korea: 
+    FlashDB 2012
+Quebec City, Canada: 
+    MLMI 2017
+    LABELS 2017
+    GRAIL 2017
+Minsk, Belarus: 
+    ISNN 2018
+Da Nang, Vietnam: 
+    INDIA 2017
+Suzhou, China: 
+    dmmooc 2017
+    SeCoP 2017
+    DASFAA 2017
+    DASFAA 2017
+    APWeb 2016
+Selcuklu, Turkey: 
+    BigData 2016
+Vichy, France: 
+    WoLGA 2018
+Los Angeles, California: 
+    KBCOM 2018
+Bloemfontein, South Africa: 
+    PRASA-RobMech 2017
+    PRASA-RobMech 2017
+Venice, Italy: 
+    IMMM 2017
+    GOODTECHS 2016
+    CISIM 2012
+    SEBD 2012
+    MVR3D 2017
+    ICCV 2017 - CoViStories 2017
+Malang, Indonesia: 
+    ICACSIS 2016
+Nanjing, China: 
+    CyberC 2017
+    Big Data 2017
+Cagliari, Italy: 
+    KDWEB 2017
+Cambridge, USA: 
+    RA  2017
+    L@S 2017
+    NEDB Summit 2012
+New Delhi, India: 
+    QDB 2016
+    VLDB 2016
+Atlantic City, USA: 
+    ICDM 2015
+    ICDM 2015
+Harbin, China: 
+    MDSP 2012
+    XMLDM 2012
+Goa, India: 
+    ICACNI 2017
+Liverpool, UK: 
+    IML 2017
+Banff, Canada: 
+    Special Session in SMC 2017
+Matsue, Japan: 
+    ICISIP 2018
+Yokohama, Japan: 
+    MoD@ITSC 2017
+Beijing, China: 
+    ICCIA 2017
+    ICCSSE 2017
+    ICCSE 2017
+    ICOSE 2017
+    EiDMKD 2018
+    BI 2017
+    IEEE ISI 2017
+    IEEE ISI 2017
+    IEEE ISI 2017
+    RTIS  2016
+    RTIS  2016
+    DAB 2013
+    HIS 2012
+    QoS-Workshop 2011
+    ACM--ICDEL--Ei Compendex 2018
+    ICPR 2018
+    BI 2017
+    Cognitive Computing Applications, IECON 2017
+    IEEE ISI 2017
+Volterra, Italy: 
+    MOD 2017
+Edmonton, Canada: 
+    ICCMA - Ei 2017
+    Canadian AI Industry Track 2017
+    ICCMA - Ei 2017
+    Canadian AI Industry Track 2017
+Dayton, USA: 
+    SUM 2011
+Brindisi, Italy: 
+    CN4IoT 2016
+Bali, Indonesia: 
+    ICIKM--EI, Scopus 2018
+    INNS-BDDL 2018
+    ICACSIS 2017
+Khenchela, Algeria: 
+    PAIS'2016
+Veliko Tarnovo, Bulgaria: 
+    DiPP 2013
+Redondo Beach, USA: 
+    PredictGIS 2017
+    SIGSPATIAL Workshops  2017
+Bangkok, Thailand: 
+    AIVR 2017
+    ICBEB 2017
+    ICIBB - Ei 2017
+    ICT & KE 2017
+    SBDDE 2017
+    SoDAC 2012
+    EDC 2018
+    MMM 2018
+Shenzhen, China: 
+    ISCSAI 2017
+    ICBDC--Ei and Scopus 2018
+    IEEE HPSC  2016
+    ICDM 2014
+    ICDM 2014
+    IEEE HPSC  2016
+Lyon, France: 
+    StoryCase 2012
+    DaWaK 2017
+    TIR 2017
+Barcelona, Spain: 
+    ICCCB - Ei 2017
+    ICBRA - Ei 2017
+    MIG 2017
+    ICFIP--EI, Scopus 2018
+    ITMLS 2017
+    MindCare 2016
+    WiML 2016
+    SoMeRis 2016
+    MDDM 2016
+    serecsys 2016
+    DSBDA  2016
+    DMS 2016
+    DaMNet 2016
+    DMIoT 2016
+    DAPS 2016
+    ICDM 2016
+    CCIA 2016
+    DEBS 2017
+    TRANSACT 2016
+    Graph-TA 2014
+    IDEAS 2013
+    IWSON 2018
+    Biometrics - TSP 2017
+    CML 2016
+    NIPS ML4HC 2016
+    IRRATIONAL 2016
+    FILM 2016
+    EWRL 2016
+    MDDM 2016
+    SoMeRis 2016
+    WiML 2016
+    WMLI 2016
+Ohrid, Republic of Macedonia: 
+    GID 2014
+    GID 2014
+Ouagadougou, West Africa: 
+    AFRICOMM 2016
+Chengdu, China: 
+    ICSRT 2018--ACM, Ei Compendex 2018
+    ICBCB 2018--Ei, Scopus 2018
+    ACM--ICCAI 2018--Ei, Scopus 2018
+    IEEE--ICCCBDA--Ei and Scopus 2018
+    ICMAI--EI Compendex and Scopus 2018
+    ICAISE--IEEE, EI and Scopus 2018
+    IEEE ITNEC 2017
+    CRC 2017
+    CCKS 2017
+    IEEE-ICIM 2017
+    ICCCBDA--Ei and Scopus 2018
+    IEEE ITNEC 2017
+    ICOK 2017
+    CPSCom 2016
+    GreenCom 2016
+    iThings 2016
+    SmartData 2016
+    ICOK 2017
+    ICSRT--ACM, Ei 2018
+    ICCAI 2018--ACM, Ei, Scopus 2018
+    ICMAI--EI and Scopus 2018
+    CPSCom 2016
+    CyberC 2016
+    Big Data 2016
+Kyoto, Japan: 
+    GECCO 2018
+    DS 2017
+    DS 2017
+    TGC@ICONIP 2016
+    GECCO 2018
+    AMBN 2017
+    DS 2017
+Valencia, Spain: 
+    DaWaK 2015
+    EACL SRW 2017
+Spokane, USA: 
+    ISASE-MAICS 2018
+Guangzhou, China: 
+    ICONIP 2017
+    ICDME - IOP 2017
+    ACM--ICDPA--Scopus, Ei Compendex 2018
+    Smart X 2017
+    ICDPA--ACM, Scopus, Ei Compendex 2018
+    ICONIP 2017
+    Smart X 2017
+Hasselt, Belgium: 
+    IUPT 2014
+Gifu, Japan: 
+    ER 2016
+    KES-IDT 2012
+Yangon, Myanmar: 
+    PACLING 2017
+Islamabad, Pakistan: 
+    ICDIM 2013
+Ulsan, South Korea: 
+    HSI 2017
+Krakow, Poland: 
+    ECDMO - Ei & Scopus 2018
+    ICIII 2017
+Los Cabos, Mexico: 
+    SISAP (LNCS and IS Journal) 2014
+Mountain View, USA: 
+    DocEng 2011
+A Coruna, Spain: 
+    JISBD 2011
+Aberdeen, UK: 
+    SoMePeAS 2017
+    EANN  2016
+    SoMePeAS 2017
+Taipei, Taiwan: 
+    TAAI 2017
+    TAAI 2017
+    TAAI 2017
+    WINVIZNN 2016
+    NTIRE 2016
+    ACCVW-MLAC 2016
+Xi'an, China: 
+    FADS 2017
+    FUSION 2017
+    CogArch 2017
+Chongqing, China: 
+    IEEE ITOEC 2017
+    IEEE ITOEC 2017
+Warsaw, Poland: 
+    ICCMIT  2017
+    ICCMIT  2017
+    ISMIS 2017
+    ISMIS 2017
+    BDASD 2017
+    PBDA 2014
+    ISMIS 2017
+    BDASD 2017
+Polanica Zdroj, Poland: 
+    CORES 2017
+    CORES 2017
+Raleigh, USA: 
+    GeoRich @ ACM SIGMOD/PODS 2017
+    CSPRED 2016
+    GeoRich @ ACM SIGMOD/PODS 2017
+    SBD 2017
+    SIGMOD 2017
+Montpellier, France: 
+    ECAI AIL 2012
+Sao Paulo, Brazil: 
+    IoA 2017
+    ADMI 2017
+    SBBD 2012
+Manchester, UK: 
+    TLAD 2011
+Pacific Grove, USA: 
+    CIDR 2013
+Lanzarote, Spain: 
+    ALT 2018
+Curitiba, Brazil: 
+    SBBD 2014
+Sydney, Australia: 
+    ICSS 2017
+    ICCMS - Ei & Scopus 2018
+    ICICA 2018
+    SAI 2017
+    LL@ICML 2017
+    UAI 2017
+    CMC 2017
+    ICAITA 2017
+    DMS 2017
+    DMS 2017
+    ISWC-InUse 2013
+    DaMEN 2013
+    AutoML 2017
+    LL@ICML 2017
+    ICML 2017
+    CST 2017
+Boracay, Philipines: 
+    EI-CCEAI 2018
+    ICDPR 2018
+Dublin, Ireland: 
+    AICS 2016
+Jeju Island, Korea: 
+    ASC 2017
+    PAKDD 2017
+Deir El-Balah, Palestine: 
+    ICPET 2017
+    ICPET 2017
+Pittsburgh, USA: 
+    C-Big 2012
+Gran Canaria, Spain: 
+    CSTSC 2016
+Coimbatore, India: 
+    ICICT 2017
+    ICICT 2017
+Jakarta, Indonesia: 
+    CSAI - Ei &Scopus 2017
+    ICOCB - EI 2017
+    DIPDMWC 2017
+Funchal, Portugal: 
+    AI4Health 2018
+    CLOSER 2018
+    ICAART 2018
+    ICPRAM 2018
+    AI4Health 2018
+    KALSIMIS 2018
+    ICPRAM 2018
+    VISAPP 2018
+Melbourne, USA: 
+    SLIE 2018
+    AIHealth@FLAIRS  2018
+    DM_FLAIRS 2018
+    AIHealth@FLAIRS  2018
+Anchorage, USA: 
+    Big Data Analytics@IJCNN 2017
+    IJCNN SS on Audio Applications 2017
+    Big Data Analytics@IJCNN 2017
+    IJCNN 2017
+Jaipur, India: 
+    KARE  2017
+    ARCS (SITIS) 2017
+    KARE  2017
+    VICTA 2017
+    IEEE-SITIS2017: MIRA 2017
+    BigDF 2017
+    ICSCE 2017
+Stuttgart, Germany: 
+    BTW 2017
+    BigSys 2014
+    NetSys PhD Forum 2013
+Lund, Sweden: 
+    DaMIS 2017
+Ustron, Poland: 
+    BDAS 2017
+    BDAS 2017
+    BDAS 2016
+    BDAS 2015
+    BDAS 2014
+    BDAS 2013
+    BDAS 2012
+Zakopane, Poland: 
+    ICAISC 2018
+    ICAISC 2017
+    ICAISC 2018
+    ICAISC 2017
+Mexico City, Mexico: 
+    CORE 2017
+Melbourne, Australia: 
+    ACL 2018
+    CICLOPS 2017
+    IJCAI - CAI4HCD 2017
+    SocInf 2017
+    WAAE 2017
+    SML 2017
+    LACATODA -  2017
+    KDH@IJCAI 2017
+    COREDEMA 2017
+    SAT 2017
+    AGI 2017
+    AI 2017
+    IJCAI 2017
+    EMSA 2018
+    CCSEA  2018
+    PAKDD 2018
+    AusDM 2017
+    SML 2017
+    COREDEMA 2017
+    APDM 2017
+    AI 2017
+    IIP 2016
+    ESAIR 2015
+    ADC 2015
+    SIGMOD 2015
+    ADC 2012
+    CCSEA  2018
+    PAKDD 2018
+    WAAE 2017
+    SML 2017
+    COMLACO 2017
+    KDH@IJCAI 2017
+    BOOM 2017
+    AGI 2017
+    AI 2017
+    IJCAI 2017
+Ho Chi Minh City, Vietnam: 
+    FDSE 2014
+Fort Wayne, USA: 
+    MAICS 2017
+    MAICS 2017
+Magdeburg, Germany: 
+    DMC 2013 at BTW 2013
+Kanazawa, Japan: 
+    MAMLAKE 2017
+    ADS 2017
+    MAMLAKE 2017
+    ADS 2017
+Cusco, Peru: 
+    SNMAM 2016
+Yogyakarta, Indonesia: 
+    ICITDA 2017
+    SCDS 2017
+    SCDS 2017
+Auckland, New Zealand: 
+    IEEE-ICCAR-Ei & SCOPUS 2018
+    ICBSB - Ei 2017
+    ICSPS - Ei 2017
+    APCCM 2014
+Wroclaw, Poland : 
+    QUALICO 2018
+Craiova, Romania: 
+    CPS 2013
+Saarland, Germany: 
+    SemDial (SaarDial) 2017
+Saint Gilles, France: 
+    DBKDA 2012
+Patras, Greece: 
+    BFAL 2017
+Changa, India: 
+    IEEE icSoftComp 2017
+    IJISP-SI 2017
+Rio de Janeiro, Brazil: 
+    PQ 2016
+Cambridge, UK: 
+    WSDM Cup 2017
+    SWM 2017
+    WSDM 2017
+    AIKED 2012
+    WSDM Cup 2017
+Paris, France: 
+    ICMERR 2017
+    DSAA 2015
+    WOD 2013
+    KEOD 2011
+Atlanta, USA: 
+    MUME  2017
+    GTM 2017
+    ICMMM - EI 2017
+    We RISE 2017
+    MUME  2017
+Marrakesh, Morocco: 
+    AECIA 2016
+    ACM SAC-RS 2017
+    DATA STREAMS TRACK 2017
+    AECIA 2016
+Almeria, Spain: 
+    JISBD 2012
+Cambridge, United Kingdom: 
+    WCICSS 2017
+Amman, Jordan: 
+    ICICS 2015
+Istanbul, Turkey: 
+    ICCTD--EI, Scopus 2018
+    ICKSE--EI Compendex, Scopus 2018
+    BIRTE 2012
+    BIGDATA 2012
+    QDB 2012
+    SDM 2012
+    PersDB 2012
+    MDDE 2012
+    VLDB 2012
+Berlin, Germany: 
+    GECCOsws 2017
+    GECCO 2017
+    ICCSAMA 2017 - CFP 2017
+    ICDT 2012
+    CAIA 2011
+    SAEOpt 2017
+    GECCO 2017
+    GCAI 2016
+Cadiz, Spain: 
+    IPMU 2018
+    SS-MLID-IWANN 2017
+    SS-MLRE-IWANN 2017
+    JISBD 2014
+    SS-MLID-IWANN 2017
+    SS-MLRE-IWANN 2017
+San Sebastian, Spain: 
+    CEC SS on Eng Appl 2017
+    SSCIG-CEC 2017
+    CEC SS on Eng Appl 2017
+Nagoya, Japan: 
+    ICRIC--Ei Compendex and Scopus 2018
+    ICCRE--IEEE, Ei 2018
+    ICCCS--Ei and Scopus 2018
+    ICMEAE--Ei and Scopus 2018
+    ICFCC - Ei 2017
+    IEEE-ICCAR 2017
+Seattle, USA: 
+    AIMS 2018
+    BigData Congress 2018
+    HPCDB 2011
+    DBPL 2011
+    DBRank 2011
+    VLDS 2011
+    QDB 2011
+    TPCTC 2011
+    SDM 2011
+Tokyo, Japan: 
+    ICBBB - Ei 2018
+    ACM--ICCIP 2017
+    DSAA 2017
+    EnGeoData@DSAA 2017
+    EvoNets@DSAA 2017
+    DSSD 2017
+    Game Data Science 2017
+    AKG 2017
+    SISAP 2016
+    DSAA 2017
+    MLSP 2017
+    EvoNets@DSAA 2017
+Merida, Mexico: 
+    ISICS 2018
+Delft, The Netherlands: 
+    CPAIOR 2018
+    SafeThings 2017
+Tamil Nadu, India: 
+    ICICT 2017
+Houston, USA: 
+    MLRec 2017
+    SDM 2017
+    MLRec 2017
+Gaza, Palestine: 
+    PICICT 2017
+Hobart, Australia: 
+    AI 2016
+    AI 2016
+Lisbon, Portugal: 
+    WISA 2017
+    ICBBT- Ei 2017
+    EnCHIReS  2017
+    DILS 2014
+    IDEAS '11D 2011
+    IDEAS 2011
+Tallinn, Estonia: 
+    DC @ Baltic DB&IS  2014
+    Baltic DB&IS 2014
+Harrison, USA: 
+    ICCBB - Ei 2017
+Madeira, Portugal: 
+    Sideways 2017
+Darmstadt, Germany: 
+    Infer 2016
+Kuantan, Malaysia: 
+    Ei - ICSCA - ACM  2018
+    Ei - ICSCA - ACM  2018
+Santa Clara, USA: 
+    SoCC 2016
+    ICWS 2013
+Davis, USA: 
+    SNAA 2016
+Porto Alegre, Brazil: 
+    LAWCN 2017
+Luxembourg: 
+    DILS 2017
+Brescia, Italy: 
+    DX 2017
+Salzburg, Austria: 
+    iDSC 2017
+    iDSC 2017
+Zurich, Switzerland: 
+    AIAP 2018
+    CCSEIT 2018
+    CNSA  2018
+    ITCSE 2017
+    CNSA  2018
+    DMS 2013
+Kortrijk, Belgium: 
+    EI-ICDES 2017
+Trondheim, Norway: 
+    ICCBR 2017
+Toronto, Canada: 
+    SISAP 2012
+    Infitt-TIC 2017
+    WOSP 2017
+Malatya, Turkey: 
+    IDAP  2017
+Pune, India: 
+    COMAD 2016
+    COMAD 2012
+    ICRACA 2017
+Playa Blanca, Spain: 
+    AISTATS 2018
+Timisoara, Romania: 
+    SMART  2017
+    SYNASC 2017
+Emden, Germany: 
+    SDAM 2017
+    SDAM 2017
+Kyoto Terrsa, Japan: 
+    SITIS 2013
+Veliky Novgorod, Russia: 
+    SYRCoDIS 2014
+Scottsdale, USA: 
+    DBTest 2012
+    DBSocial 2012
+    WebDB 2012
+    MobiDE 2012
+    PODS 2012
+    SIGMOD 2012
+    IWSPA 2017
+Maratea, Italy: 
+    SEBD 2011
+Irbid, Jordan: 
+    iCICS 2014
+    iCICS 2013
+Riyadh, Saudi Arabia: 
+    KACSTIT 2016
+Singapore: 
+    ICVIP - Ei 2017
+    ICIAS--Ei 2018
+    ICIIC--IEEE Xplore, Ei 2018
+    ACM--ICMSR--Ei, Scopus and ISI 2018
+    ICMVA--EI Compendex, Scopus 2018
+    ICFCC--Ei & Scopus 2018
+    ACMLC--EI Compendex, Scopus 2017
+    FICC 2018
+    IEEE--ICAVE 2017
+    ICITE 2017
+    IEEE--ICSGSC 2017
+    ICCTS - Ei 2017
+    ICMCT 2017
+    FICC 2018
+    ADMA 2017
+    CIKM 2017
+    ICMVA--EI Compendex, Scopus 2018
+    ACMLC--EI Compendex, Scopus 2017
+    IALP 2017
+    FICC 2018
+    ADMA 2017
+    ICDEPI 2017
+Exeter, UK: 
+    RIS 2017
+Cuzco, Peru: 
+    SIMBig 2016
+Valenciennes, France: 
+    ICMRE - Ei & Scopus 2018
+    ICMRE - Ei & Scopus 2018
+La Habana, Cuba: 
+    CICCI 2013
+Belgaum, India: 
+    SCESM Special Session IoT  2017
+Milan, Italy: 
+    ISDSA  2016
+    ISDSA  2016
+    CMS 2011
+    IWMIL 2017
+Valparaiso, Chile: 
+    CRoNe 2017
+    CIARP 2017
+Hamilton, New Zealand: 
+    TMNZ 2016
+    ACML 2016
+    AWRL 2016
+    ACML 2016
+York, UK: 
+    KES-MDA 2016
+Ahmedabad, India: 
+    COMAD 2013
+Rhodes, Greece: 
+    AIAI 2018
+    EAIS 2018
+    AIAI 2018
+Phuoc Island, Vietnam: 
+    ICMLSC - ACM - Ei 2018
+    ACM - ICMLSC - Ei 2018
+Jeju Island, South Korea: 
+    ICISS--Ei Compendex and Scopus 2018
+    ICACS - EI 2017
+    PAKDD 2017
+Uberlandia, Brazil: 
+    BRACIS 2017
+    SBBD 2017
+San Diego, USA: 
+    ICME 2018
+    SDM 2018
+    SDM 2018
+    DIM 2017
+    HDMM 2017
+    ICDE 2017
+    ACTIVE 2017
+    ICDE 2017
+    SDM 2018
+    DIM 2017
+Hammamet, Tunisia: 
+    Workshop on Massive Dataflow Analysis 2017
+Incheon, Korea: 
+    EDB 2011
+DeKalb, USA: 
+    IEEE--ICICT--Ei, Scopus 2018
+    ACM--ICCDA--Ei, Scopus, and ISI 2018
+Lome, Africa: 
+    IREHI 2017
+London, UK: 
+    ICIIP 2017
+    RuleML+RR 2017
+    ICAIL 2017
+    BDIOT - ACM 2017
+    IEEE - ICKEA 2017
+    ICCBDC - ACM 2017
+    IDA 2017
+    DaMIS 2016
+    BDIOT - Ei 2017
+    ICCBDC 2017
+    IUPT 2015
+    SDA 2014
+    MOCO 2017
+Tumkur, India: 
+    ICECIT 2013
+Nicosia, Cyprus: 
+    ADBIS 2017
+    ADBIS 2017
+    ADBIS 2017
+    ADBIS - Workshops 2017
+Kolkata, India: 
+    PReMI 2017
+    IEMIS 2018
+    ICON 2017
+    IEMIS 2018
+    PReMI 2017
+Antwerp, Belgium: 
+    DBDBD 2014
+Larnaca, Cyprus: 
+    AIC 2017
+    ISS for IISA Conference 2017
+Vellore, India: 
+    SoCPaR 2016
+Vancouver, Canada: 
+    ICLR 2018
+    ParLearning 2018
+    FTC 2017
+    IROS 2017
+    SoEA4EE 2013
+    DDDM 2011
+    DDDM 2011
+    ICLR 2018
+    ICLR 2018
+    ParLearning 2018
+    BioASQ 2017
+Santiago, Chile: 
+    BAFI 2018
+    IJCRS 2016
+    BAFI 2018
+Ulyanovsk, Russia: 
+    IS 2017
+    IS 2017
+Daejeon, South Korea: 
+    RiTA 2017
+Chania, Greece: 
+    HDMS 2012
+    SSDBM 2012
+    SSDBM 2012
+Austin, USA: 
+    K-CAP 2017
+    BDCAT 2017
+    K-CAP 2017
+    SeMaT 2016
+Hawaii, USA: 
+    IEEE CISDA 2017
+    AIAAT 2017
+    ICISIP 2017
+    AIMS 2017
+    ICBDE--EI and Scopus 2018
+    ?êEi/ SCOPUS?ëAIAAT 2017
+    VLDB 2015
+    CDMW 2012
+    CloudDB 2012
+    CIKM Posters 2012
+    CIKM 2012
+    CIKM 2012
+    IEEE SSCI 2017
+    AIAAT 2017
+    NTIRE 2017
+    VOCVLC/CVPR 2017
+    PBVS 2017
+Potsdam, Germany: 
+    LWDA/KDML 2016
+Copenhagen, Denmark: 
+    TIME 2016
+    EMNLP 2017
+Bruges, Belgium: 
+    Emerging trends in ML@ESANN 2018
+    Randomized Neural Networks - ESANN 2018
+    Randomized ML @ ESANN 2017
+    ESANN 2017
+Montreal, Canada: 
+    ITS 2018
+    ITS 2018
+    EnGeoData 2016
+    DSAA 2016
+    IEEE DSAA'2016
+    DILS 2013
+    Balisage 2011
+    ICPRAI 2018
+    IPTA 2017
+    GlobalSIP 2017
+Stockholm, Sweden: 
+    AAMAS 2018
+    IJCAI 2018
+    ICCBR 2018
+    IDA 2016
+    COLT 2018
+    COLT 2018
+Amsterdam, Netherlands: 
+    COLT 2017
+    EvoMUSART 2017
+    EuroGP 2017
+    VARVAI 2016
+Galway, Ireland: 
+    LDK 2017
+Hanoi, Vietnam: 
+    Ei - ICBCT 2018
+    ICIIT - Ei & Scopus 2018
+    IES 2017
+    DASFAA (Demo Track) 2015
+    ICIIT - Ei & Scopus 2018
+Osaka, Japan: 
+    ICINT--EI, Scopus 2018
+    ACM - ICBDR 2017
+    ACM - ICBDR 2017
+    RDA 2018
+    WNUT 2016
+Prague, Czech Republic: 
+    ACM--ICGDA--Ei, Scopus 2018
+    ACM--ICSSE--Ei, Scopus 2018
+    ICAIR 2017
+    ?êEi??-ICAIR 2017
+    ICMAE 2017
+    AIMA 2017
+    FedCSIS 2017
+    AAIA 2017
+    TSD 2017
+    FiCloud 2017
+    ICGDA--Ei, ISI and Scopus 2018
+    RSmeetDB 2013
+    DEXA 2013
+    DaWaK 2013
+    IDEAS  2012
+    ICCAIRO 2017
+Reggio Calabria, Italy: 
+    CD-MAKE 2017
+Odisha, India: 
+    ICCIDM 2014
+Siena, Italy: 
+    BigDAW 2017
+Riva del Garda, Italy: 
+    SSDM 2017
+    MIDAS 2016
+    SSDM 2016
+    MLSA 2016
+    ECML-PKDD 2016
+    SSDM 2017
+    MIDAS 2016
+    MLSA 2016
+    SSDM 2016
+Kaohsiung, Taiwan: 
+    IDAM 2014
+    ACIIDS 2012
+    FDML 2011
+NhaTrang, Vietnam: 
+    CSBio 2017
+    SoICT 2017
+Phnom Penh, Cambodia: 
+    ICOAS - EI 2017
+Gadong, Brunei: 
+    SoDeLIA 2017
+Omaha, USA: 
+    EdRecSys 2016
+Rotterdam, Netherlands: 
+    DBDBD 2013
+Haifa, Israel: 
+    DAB 2014
+Indianapolis, USA: 
+    NetCrime 2017
+    DAVA 2016
+Hong Kong: 
+    ICVR-Ei 2018
+    ICIGP-Ei 2018
+    ICROM-Ei 2017
+    CAIIT 2017
+    ICRAS 2017
+    ICTTE 2017
+    ICBEA 2017
+    EI--CMVIT 2018
+    IEEE-ICRAS 2017
+    ICBEA--Ei 2017
+Aksaray, Turkey: 
+    SIN 2013
+Druskininkai, Lithuania: 
+    ISSEA 2017
+    WISTIPS 2017
+    AKTS 2017
+    AKTS 2016
+Toulouse, France: 
+    IFAC World Congress SIMCA 2017
+    DBLM 2011
+    RSmeetDBs 2011
+    Globe 2011
+    DaWaK 2011
+    MIMIC 2011
+Montreal, Quebec: 
+    ICPRAI 2018
+Chatillon, France: 
+    DRCN 2018
+    DRCN 2018
+Mashhad, Iran: 
+    ITPF 2016
+Tam Ky City, Vietnam: 
+    ICCASA 2017
+    ICTCC 2017
+Colchester, UK: 
+    CEEC 2017
+Guiyang, China: 
+    ICCSP - Ei & Scopus 2018
+Kansas City, USA: 
+    BIBM SEPDA 2017
+Fort Lauderdale, USA: 
+    AISTATS 2017
+Koblenz, Germany: 
+    IMDM 2013
+Toulon, France: 
+    ICLR 2017
+Exeter, England: 
+    SMMA 2017
+    SMMA 2017
+Bonn, Germany: 
+    OrdRing 2011
+Nanjing and Tai'an, China: 
+    RO-MAN  2018
+Madrin, Spain: 
+    ICINCO 2017
+Dallas, USA: 
+    BDQM 2016
+    TIDM 2013
+    BiDaDA 2013
+Orlando, USA: 
+    ParLearning 2017
+    ParLearning 2017
+    ParLearning 2017
+Burlingame, USA: 
+    DOLAP 2013
+    VDA 2012
+    Electronic Imaging 2017
+Glasgow, UK: 
+    SISAP  2015
+    DOLAP 2011
+    CloudDB 2011
+    CIKM 2011
+    CIKM 2011
+Poznan, Poland: 
+    BDAS 2018
+    DEW 2017
+    BDAS 2018
+    MCSD 2012
+Poitiers, France: 
+    GID 2015
+    ADBIS -  2015
+    MEDI 2012
+Punta Hicacos, Cuba: 
+    CIPI 2017
+Skopje, Macedonia: 
+    BCI 2017
+    DARE 2017
+    LIDTA 2017
+    MLSA 2017
+    SoGood 2017
+    ECML-PKDD 2017
+    DARE 2017
+    LIDTA 2017
+    SoGood 2017
+    MLSA 2017
+    ECML-PKDD 2017
+Maun, Botswana: 
+    LPAR 2017
+New York City, USA: 
+    DSA 2018
+    ICDM 2018
+    MLDM 2018
+    MLDM 2017
+    GRADES 2013
+    PODS 2013
+    SIGMOD 2013
+    DSA 2018
+    MLDM 2018
+    FAT* 2018
+Montreuil sur Mer, France: 
+    JFPC 2017
+Adelaide, Australia: 
+    BDVA 2017
+    APCCM 2013
+Playa Blanca, Lanzarote: 
+    AISTATS 2018
+Marseille, France: 
+    KES PR TAC 2017
+    KES PR TAC 2017
+Male, Maldives: 
+    ICOAR--Scopus 2018
+Brno, Czech Republic: 
+    MENDEL SCC 2017
+Instabul, Turkey: 
+    DBRank 2012
+Naiguata, Venezuela: 
+    CLEI 2013
+    CIESC 2013
+Hefei, China: 
+    ICMRA--Ei & Scopus 2018
+    LDM 2017
+The Hague, Netherlands: 
+    MLSB posters 2016
+Limassol, Cyprus: 
+    IUI 2017
+Hsinchu City, Taiwan: 
+    Oriental COCOSDA 2011
+Nice, France: 
+    ISDM 2017
+    HealTech 2017
+Dresden, Germany: 
+    EEML 2017
+Menlo Park, USA: 
+    XLDB 2011
+Shiraz, Iran: 
+    CSI 2017
+    AISP-2017
+Augsburg, Germany: 
+    DSS 2016
+Hangzhou, China: 
+    ICBDT--EI Compendex, Scopus 2018
+    ICBDT--EI, Scopus 2018
+    BIRTE 2014
+    VLDB 2014
+    CCIS 2017
+Miami, USA: 
+    GCAI  2017
+    GCAI  2017
+Puebla, Mexico: 
+    LKE 2017
+    LKE 2017
+Budapest, Hungary: 
+    FoIKS 2018
+    FoIKS 2018
+Dalian, China: 
+    NLPCC 2017
+Hua-Hin, Thailand: 
+    iSAI-NLP 2017
+Gangtok, India: 
+    ICACCP 2017
+Torino, Italy: 
+    ICAMS 2018
+Las Vegas, Nevada: 
+    Workshop - DMIN 2017
+Laguna Hills, USA: 
+    ICSC 2018
+Mons, Belgium: 
+    TIME 2017
+    TIME 2017
+Xiamen, China: 
+    BOCIA 2018
+Tucson, USA: 
+    SASO 2017
+    ICCAC DS  2017
+Geneva, Switzerland: 
+    AIAPP 2017
+    CoSIT 2017
+    IoTAAL 2017
+    CYBI 2017
+    AIAPP 2017
+    DMA  2017
+    IoTAAL 2017
+Sousse, Tunisia: 
+    ICBNA 2016
+Olten, Switzerland: 
+    ISCBI 2016
+Benicassim, Spain: 
+    INIT/AERFAISummerSchoolML 2017
+Amsterdam, Netherland: 
+    ICMSCE--Ei, Scopus 2018
+    ACM--ICRIS--Ei 2018
+Arras, France: 
+    CAnimAI 2017
+    IEA/AIE NAAD 2017
+    IEA/AIE NAAD 2017
+Trieste, Italy: 
+    PACMA 2017
+    ST-Analytics 2017
+    PACMA 2017
+    DCIRS -  2017
+    WICA 2017
+    PACMA 2017
+Shanghai, China: 
+    ICRAI 2017
+    ICRAE 2017
+    BigData4SmartEnergy 2018
+    ACM - ICIAI 2018
+    ICDIP-SPIE 2018
+    ICUASA 2018
+    Ei - ICBDA - IEEE 2018
+    IEEE Bigcomp 2018
+    ICIS 2017
+    DMCIT 2018
+    ICCDE--Ei and Scopus 2018
+    IEEE - ICBDA 2018
+    IWBDS 2016
+    UCC - IDP 2016
+    ICRAE - IEEE 2017
+    ASC 2018
+    ACM - ICIAI 2018
+    ICIS 2017
+    UCC - IDP 2016
+Fukuoka, Japan: 
+    ICDIM 2017
+    DMBD 2017
+    DMBD 2017
+Guilin, China: 
+    ICIIP 2018
+    IDEAL 2017
+    IDEAL 2017
+Kitakyushu, Japan: 
+    ICRCA - Ei 2017
+    SPIE - ICRMV 2017
+    ISAIR 2017
+    ICRCA - Ei 2017
+    ICRMV - Ei 2017
+Tsukuba, Japan: 
+    ICSR 2017
+Bamberg, Germany: 
+    IEEE BigDataService 2018
+Maastricht, the Netherlands: 
+    CIG 2018
+Dortmund, Germany: 
+    KI 2017
+Pasadena, USA: 
+    AHS 2017
+Vijayawada, India: 
+    ICCIDE 2017
+    ICCIDE 2017
+Vilamoura, Portugal: 
+    KES IDT DSS 2017
+    KES-IDT-17 / IS09 (IDT-CMS 2017) 2017
+    KES-AMSTA-17 / IS04 (AMAT-CMS 2017) 2017
+    KES IDT DSS 2017
+    KES IDT DSS 2017
+    KES-IDT / IABIRP 2017
+Riga, Latvia: 
+    Archiving 2017
+    Baltic DB&IS, DC 2016
+    UOII 2011
+Wuhan, China: 
+    IEEE--ICCSSE--Ei & Scopus 2018
+    ICACR--Ei and Scopus 2017
+    EI--AIACT 2017
+    AIED DC 2017
+    DASFAA 2013
+Stony Brook, USA: 
+    RuleML Challenge 2016
+Las Vegas, USA: 
+    DIM 2012
+    ITNG 2018

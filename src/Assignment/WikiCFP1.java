@@ -13,7 +13,7 @@ import java.util.Comparator;
 
 public class WikiCFP1 {
 	public WikiCFP1(String s, String s2) throws IOException {
-		readWrite(s, s2);
+		//readWrite(s, s2);
 	}
 	
 	class ValueComparator implements Comparator<String> {

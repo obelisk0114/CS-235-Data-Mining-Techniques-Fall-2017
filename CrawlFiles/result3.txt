@@ -1,0 +1,2118 @@
+Canadian AI Industry Track : 
+    Edmonton, Canada
+IJISP-SI : 
+    Changa, India
+CMS : 
+    Milan, Italy
+AIVR : 
+    Bangkok, Thailand
+RecSysKTL : 
+    Como, Italy
+PRASA-RobMech : 
+    Bloemfontein, South Africa
+CPSCom : 
+    Chengdu, China
+BDTA : 
+    Seoul, South Korea
+ICOAS - EI : 
+    Phnom Penh, Cambodia
+ICMV : 
+    Vienna, Austria
+DBSocial : 
+    Scottsdale, USA
+    Athens, Greece
+EnGeoData : 
+    Montreal, Canada
+SCIA  : 
+    Troms, Norway
+DocEng : 
+    Mountain View, USA
+MECN : 
+    Dubai, UAE
+SmartData : 
+    Chengdu, China
+AusDM : 
+    Melbourne, Australia
+SPIE - ICRMV : 
+    Kitakyushu, Japan
+MDSP : 
+    Harbin, China
+ICVR-Ei : 
+    Hong Kong
+BIOKDD : 
+    Halifax, Canada
+CloudDB : 
+    Hawaii, USA
+    Chicago, USA
+    Glasgow, UK
+    San Francisco, USA
+ICMERR : 
+    Paris, France
+SEBD : 
+    Sorrento Coast, Italy
+    Venice, Italy
+    Maratea, Italy
+ICGDA--Ei, ISI and Scopus : 
+    Prague, Czech Republic
+ACM - DTTA Track : 
+    Coimbra, Portugal
+CRoNe : 
+    Valparaiso, Chile
+RSmeetDB : 
+    Prague, Czech Republic
+    Vienna, Austria
+ICICC - Ei : 
+    Manila, Philippines
+ACTIVE : 
+    San Diego, USA
+BigGraphs : 
+    Washington DC, USA
+ICMM--Ei & Scopus : 
+    Phuket, Thailand
+ICBEF : 
+    Seoul, South Korea
+ICMMM - EI : 
+    Atlanta, USA
+ICBCB : 
+    Chengdu, China
+CSTSC : 
+    Gran Canaria, Spain
+HighStream@ICDM : 
+    New Orleans, USA
+SYRCoDIS : 
+    Moscow, Russia
+    Kazan, Russia
+    Veliky Novgorod, Russia
+ICMCR - Ei & Scopus : 
+    Ho Chi Minh, Vietnam
+IDAP  : 
+    Malatya, Turkey
+ASIIS (ACM SAC) : 
+    Coimbra, Portugal
+K-CAP : 
+    Austin, USA
+CDMW : 
+    Hawaii, USA
+AIAI : 
+    Rhodes, Greece
+BigDF : 
+    Hyderabad, India
+    Jaipur, India
+ICFCC - Ei : 
+    Nagoya, Japan
+Ei - ICBDA - IEEE : 
+    Shanghai, China
+COMLACO : 
+    Melbourne, Australia
+MLRec : 
+    Houston, USA
+IJCAI - CAI4HCD : 
+    Melbourne, Australia
+BRACIS : 
+    Uberlandia, Brazil
+EnviroInfo : 
+    Oldenburg, Germany
+SYNASC : 
+    Timisoara, Romania
+KARE  : 
+    Jaipur, India
+ICMAM - Ei : 
+    Phuket, Thailand
+Big Data  : 
+    Alicante, Spain
+SoDM : 
+    Bandar Seri Begawan, Brunei
+ISCSAI : 
+    Shenzhen, China
+ISCBI : 
+    Olten, Switzerland
+NetCrime : 
+    Indianapolis, USA
+ICICS : 
+    Amman, Jordan
+SASO : 
+    Tucson, USA
+HAIS : 
+    La Rioja, Spain
+iThings : 
+    Chengdu, China
+NLDB : 
+    Liege, Belgium
+BDVA : 
+    Adelaide, Australia
+Smart X : 
+    Guangzhou, China
+BigDAW : 
+    Siena, Italy
+IEEE--ICICT--Ei, Scopus : 
+    DeKalb, USA
+GID : 
+    Poitiers, France
+    Vienna, Austria
+    Ohrid, Republic of Macedonia
+UAI : 
+    Sydney, Australia
+VISAPP : 
+    Funchal, Portugal
+BDI : 
+    Kuala Lumpur, Malaysia
+IDEAS  : 
+    Prague, Czech Republic
+ SLIOIA/ASAI : 
+    Cordoba, Argentina
+IEEE-ICMSC : 
+    St. Petersburg, Russia
+Sideways : 
+    Madeira, Portugal
+INNS-BDDL : 
+    Bali, Indonesia
+Ei - ICCAE : 
+    Brisbane, Australia
+SmartMedDev  : 
+    Porto, Portugal
+DT  : 
+    TU Dortmund, Germany
+CILC : 
+    Naples, Italy
+ISSEA : 
+    Druskininkai, Lithuania
+ECDM : 
+    Florence, Italy
+ICDIM : 
+    Fukuoka, Japan
+    Porto, Portugal
+    Islamabad, Pakistan
+ADMI : 
+    Sao Paulo, Brazil
+ICCBB : 
+    Newark, USA
+IREHI : 
+    Lome, Togo
+    Lome, Africa
+BI : 
+    Beijing, China
+ARCS (SITIS) : 
+    Jaipur, India
+ICMRE - Ei & Scopus : 
+    Valenciennes, France
+MindCare : 
+    Barcelona, Spain
+KACSTIT : 
+    Riyadh, Saudi Arabia
+DaEng : 
+    Kuala Lumpur, Malaysia
+Globe : 
+    Toulouse, France
+CICCI : 
+    La Habana, Cuba
+ICDM - MoDAT : 
+    New Orleans, USA
+IWSPA : 
+    Scottsdale, USA
+LL@ICML : 
+    Sydney, Australia
+ITBAM : 
+    Porto, Portugal
+ODD : 
+    San Francisco, USA
+SCDM : 
+    Washington DC, USA
+IROS : 
+    Vancouver, Canada
+CORES : 
+    Polanica Zdroj, Poland
+IPMU : 
+    Cadiz, Spain
+ISNN : 
+    Minsk, Belarus
+ICRAS : 
+    Hong Kong
+BAFI : 
+    Santiago, Chile
+FILM : 
+    Barcelona, Spain
+ICKEA--IEEE, Ei Compendex & Scopus : 
+    Moscow, Russia
+IPTA : 
+    Montreal, Canada
+ACL : 
+    Melbourne, Australia
+DSA : 
+    New York City, USA
+BASC : 
+    San Francisco, USA
+CRC : 
+    Chengdu, China
+SNMAM : 
+    Cusco, Peru
+CIPI : 
+    Punta Hicacos, Cuba
+ICIS : 
+    Shanghai, China
+EACL SRW : 
+    Valencia, Spain
+EnDM@EDBT : 
+    Genoa, Italy
+ICBNA : 
+    Sousse, Tunisia
+BBH : 
+    Washington DC, USA
+NAHO : 
+    Irvine, USA
+HPGDML : 
+    New Orleans, USA
+iDSC : 
+    Salzburg, Austria
+Oriental COCOSDA : 
+    Macau, China
+    Hsinchu City, Taiwan
+INDIA : 
+    Da Nang, Vietnam
+ICCCB - Ei : 
+    Barcelona, Spain
+SIGSPATIAL Workshops  : 
+    Redondo Beach, USA
+SS-MLRE-IWANN : 
+    Cadiz, Spain
+IC-ININFO : 
+    Athens, Greece
+RiTA : 
+    Daejeon, South Korea
+EANN  : 
+    Aberdeen, UK
+FlashDB : 
+    Busan, South Korea
+FADS : 
+    Xi'an, China
+EI--AIACT : 
+    Wuhan, China
+ICINCO : 
+    Madrin, Spain
+SDAM : 
+    Emden, Germany
+ICBDM - Ei : 
+    Macau, China
+ICIST  : 
+    Dubai, UAE
+CoSIT : 
+    Geneva, Switzerland
+NAACL HLT : 
+    New Orleans, USA
+IMDM : 
+    Koblenz, Germany
+SAT : 
+    Melbourne, Australia
+SLIE : 
+    Melbourne, USA
+Cognitive Computing Applications, IECON : 
+    Beijing, China
+HPCAC : 
+    Leon, Spain
+ISWC : 
+    Vienna, Austria
+ICCMIT  : 
+    Warsaw, Poland
+ACM - ICMLSC - Ei : 
+    Phuoc Island, Vietnam
+StoryCase : 
+    Lyon, France
+SISAP  : 
+    Glasgow, UK
+ICMAE : 
+    Prague, Czech Republic
+PDAC : 
+    Salt Lake City, USA
+ICBBB - Ei : 
+    Tokyo, Japan
+DMIP : 
+    New Orleans, USA
+BOOM : 
+    Melbourne, Australia
+CPAIOR : 
+    Delft, The Netherlands
+EI-ICDES : 
+    Kortrijk, Belgium
+ICCDA-Ei : 
+    Lakeland, USA
+QDB : 
+    Seattle, USA
+    Istanbul, Turkey
+    New Delhi, India
+WISTIPS : 
+    Druskininkai, Lithuania
+PBVS : 
+    Hawaii, USA
+IML : 
+    Liverpool, UK
+MOD : 
+    Volterra, Italy
+CIARP : 
+    Valparaiso, Chile
+ECAI AIL : 
+    Montpellier, France
+DC @ Baltic DB&IS  : 
+    Tallinn, Estonia
+ICMLSC - ACM - Ei : 
+    Phuoc Island, Vietnam
+ICICT : 
+    Coimbatore, India
+    Tamil Nadu, India
+ICCSE : 
+    Beijing, China
+SERecSys : 
+    New Orleans, USA
+DBTest : 
+    Scottsdale, USA
+    Athens, Greece
+IEA/AIE NAAD : 
+    Arras, France
+MDM : 
+    Brisbane, Australia
+    Bangalore, India
+DS : 
+    Kyoto, Japan
+    Bari, Italy
+ACM--ICGDA--Ei, Scopus : 
+    Prague, Czech Republic
+KDD MiLeTS Workshop : 
+    Halifax, Canada
+RO-MAN  : 
+    Nanjing and Tai'an, China
+ICOAR--Scopus : 
+    Male, Maldives
+Randomized Neural Networks - ESANN : 
+    Bruges, Belgium
+ICACSIS : 
+    Bali, Indonesia
+    Malang, Indonesia
+CIKM Posters : 
+    Hawaii, USA
+ISS for IISA Conference : 
+    Larnaca, Cyprus
+COMAD : 
+    Ahmedabad, India
+    Hyderabad, India
+    Pune, India
+    Bangalore, India
+SCDS : 
+    Kuala Lumpur, Malaysia
+    Yogyakarta, Indonesia
+Workshop - DMIN : 
+    Las Vegas, Nevada
+KES-IDT / IABIRP : 
+    Vilamoura, Portugal
+BigScholar : 
+    Perth, Australia
+WAAE : 
+    Melbourne, Australia
+ICMRA--Ei & Scopus : 
+    Hefei, China
+ICMLA : 
+    Cancun, Mexico
+    Los Angeles, USA
+ADBIS : 
+    Nicosia, Cyprus
+    Vienna, Austria
+Workshop on Massive Dataflow Analysis : 
+    Hammamet, Tunisia
+AIMS : 
+    Seattle, USA
+    Hawaii, USA
+SoEA4EE : 
+    Vancouver, Canada
+SAEOpt : 
+    Berlin, Germany
+ACM--ICCAI : 
+    Chengdu, China
+ISICS : 
+    Merida, Mexico
+ISMIS : 
+    Warsaw, Poland
+ICMLT--Ei and Scopus : 
+    Jinan, China
+ICMLC - Ei : 
+    Macau, China
+PReMI : 
+    Kolkata, India
+CD-MAKE : 
+    Reggio Calabria, Italy
+ADMA : 
+    Singapore
+    Gold Coast, Australia
+BDQM : 
+    Dallas, USA
+CIIS : 
+    Bandar Seri Begawan, Brunei
+ITCSE : 
+    Zurich, Switzerland
+CSITEC : 
+    Dubai, UAE
+ACM - ICIAI : 
+    Shanghai, China
+SoGood : 
+    Skopje, Macedonia
+NetSys PhD Forum : 
+    Stuttgart, Germany
+IUPT : 
+    London, UK
+    Hasselt, Belgium
+AFRICOMM : 
+    Ouagadougou, West Africa
+ST-Analytics : 
+    Trieste, Italy
+DSHCM  : 
+    New Orleans, USA
+AECM : 
+    Munich, Germany
+IEEE--ICCCBDA--Ei and Scopus : 
+    Chengdu, China
+SSTD : 
+    Munich, Germany
+    Seoul, South Korea
+NextComp : 
+    Pointe aux Piments, Mauritius
+ICDIS : 
+    South Padre Island, USA
+ICBDE--EI and Scopus : 
+    Hawaii, USA
+IFAC World Congress SIMCA : 
+    Toulouse, France
+iSAI-NLP : 
+    Hua-Hin, Thailand
+GCAI  : 
+    Miami, USA
+BIBM SEPDA : 
+    Kansas City, USA
+MLSA : 
+    Riva del Garda, Italy
+    Skopje, Macedonia
+APCCM : 
+    Auckland, New Zealand
+    Adelaide, Australia
+OrdRing : 
+    Bonn, Germany
+ICCTS - Ei : 
+    Singapore
+MVIP : 
+    Isfahan, Iran
+AIED DC : 
+    Wuhan, China
+CITI : 
+    Guayaquil, Ecuador
+MIMIC : 
+    Toulouse, France
+ICIIC--IEEE Xplore, Ei : 
+    Singapore
+DIPDMWC : 
+    Jakarta, Indonesia
+    Moscow, Russia
+WISDOM : 
+    Halifax, Canada
+DADE : 
+    Gdynia, Poland
+IEEE FRUCT : 
+    Petrozavodsk, Russia
+    Helsinki, Finland
+EuroGP : 
+    Amsterdam, Netherlands
+ICOAI : 
+    Florence, Italy
+ICBDT--EI Compendex, Scopus : 
+    Hangzhou, China
+DX : 
+    Brescia, Italy
+RABiD : 
+    Olsztyn, Poland
+FAT* : 
+    New York City, USA
+ICMCT : 
+    Singapore
+INISTA  : 
+    Thessaloniki, Greece
+SDAAM : 
+    Washington DC, USA
+AMBN : 
+    Kyoto, Japan
+DRCN : 
+    Chatillon, France
+ICCBDC - ACM : 
+    London, UK
+MIS2 @ WSDM : 
+    Los Angeles, USA
+ICACNI : 
+    Goa, India
+TLAD : 
+    Manchester, UK
+SoDAC : 
+    Bangkok, Thailand
+IEEE icSoftComp : 
+    Changa, India
+MHDW : 
+    Thessaloniki, Greece
+ACM-BCB : 
+    Boston, USA
+KRR@SAC : 
+    Pau, France
+TIME : 
+    Copenhagen, Denmark
+    Mons, Belgium
+VAAM : 
+    Cancun, Mexico
+DaWaK : 
+    Munich, Germany
+    Prague, Czech Republic
+    Toulouse, France
+    Valencia, Spain
+    Lyon, France
+    Vienna, Austria
+CIAALS : 
+    Porto, Portugal
+Game Data Science : 
+    Tokyo, Japan
+SDA : 
+    London, UK
+miproBIS : 
+    Opatija, Croatia
+ICMAI--EI and Scopus : 
+    Chengdu, China
+iCICS : 
+    Irbid, Jordan
+ICSPS - Ei : 
+    Auckland, New Zealand
+SoCPaR : 
+    Vellore, India
+ISCMI : 
+    Dubai, UAE
+PrivDB : 
+    Brisbane, Australia
+BioASQ : 
+    Vancouver, Canada
+PersDB : 
+    Istanbul, Turkey
+ISCIA : 
+    Melaka, Malaysia
+ICCASA : 
+    Tam Ky City, Vietnam
+ISASE-MAICS : 
+    Spokane, USA
+LIDTA : 
+    Skopje, Macedonia
+?êEi??-ICAIR : 
+    Prague, Czech Republic
+LPAR : 
+    Maun, Botswana
+RecSys@FLAIRS : 
+    Marco Island, USA
+IEEE ISI : 
+    Beijing, China
+BIGDATA : 
+    Istanbul, Turkey
+ARIN : 
+    Dubai, UAE
+GeoRich : 
+    Chicago, USA
+TMNZ : 
+    Hamilton, New Zealand
+SMDB : 
+    Chicago, USA
+    Brisbane, Australia
+    Washington DC, USA
+SoICT : 
+    NhaTrang, Vietnam
+RIS : 
+    Exeter, UK
+KI : 
+    Dortmund, Germany
+ICRACA : 
+    Pune, India
+IE : 
+    Seoul, South Korea
+NoCoDA : 
+    San Francisco, USA
+ICDPA--ACM, Scopus, Ei Compendex : 
+    Guangzhou, China
+FoIKS : 
+    Budapest, Hungary
+    Bordeaux, France
+ICAART : 
+    Funchal, Portugal
+AWRL : 
+    Hamilton, New Zealand
+ICSCE : 
+    Jaipur, India
+KES IDT DSS : 
+    Vilamoura, Portugal
+NIPS : 
+    Long Beach, USA
+FDM : 
+    Chemnitz, Germany
+EMNLP : 
+    Copenhagen, Denmark
+ICCV : 
+    Venice, Italy
+GCAI : 
+    Berlin, Germany
+BigData : 
+    Selcuklu, Turkey
+ICCIA : 
+    Beijing, China
+UKAIS : 
+    Oxford, UK
+ICE-B : 
+    Rome, Italy
+CogArch : 
+    Xi'an, China
+SSCI : 
+    Athens, Greece
+ICCBR : 
+    Trondheim, Norway
+    Stockholm, Sweden
+TGC@ICONIP : 
+    Kyoto, Japan
+DMC : 
+    Chicago, USA
+    Magdeburg, Germany
+    Washington DC, USA
+ICINT--EI, Scopus : 
+    Osaka, Japan
+SAMI4.0 : 
+    Graz, Austria
+Emerging trends in ML@ESANN : 
+    Bruges, Belgium
+SBDDE : 
+    Bangkok, Thailand
+IJCAI : 
+    Melbourne, Australia
+    Stockholm, Sweden
+DASFAA : 
+    Wuhan, China
+    Suzhou, China
+ICCST : 
+    Madrid, Spain
+ICACCP : 
+    Gangtok, India
+BEWEB : 
+    Genoa, Italy
+CAIIT : 
+    Hong Kong
+PACLING : 
+    Yangon, Myanmar
+VOCVLC/CVPR : 
+    Hawaii, USA
+MCSD : 
+    Poznan, Poland
+CSITY : 
+    Dubai, UAE
+SBD : 
+    Raleigh, USA
+IIP : 
+    Melbourne, Australia
+MLPMEA : 
+    Cancun, Mexico
+IEEE Bigcomp : 
+    Shanghai, China
+MLDM : 
+    New YorkCity, USA
+    New York City, USA
+DSS : 
+    Augsburg, Germany
+GreenCom : 
+    Chengdu, China
+ACM - ICBDM : 
+    Macau, China
+CN4IoT : 
+    Brindisi, Italy
+ITMLS : 
+    Barcelona, Spain
+ICAITA : 
+    Sydney, Australia
+EDBT : 
+    Genoa, Italy
+    Athens, Greece
+    Vienna, Austria
+TIDM : 
+    Dallas, USA
+ACM--ICMCE : 
+    St. Petersburg, Russia
+DSSD : 
+    Tokyo, Japan
+INTECH  : 
+    Casablanca, Morocco
+Smart-CT : 
+    Malaga, Spain
+AgTAmI : 
+    Bucharest, Romania
+DCIRS -  : 
+    Trieste, Italy
+SDMSM : 
+    Washington DC, USA
+SWM : 
+    Cambridge, UK
+IMMM : 
+    Venice, Italy
+AMLTA : 
+    Cairo, Egypt
+KDD ADF : 
+    Halifax, Canada
+UCC - IDP : 
+    Shanghai, China
+IEEE-ICCAR-Ei & SCOPUS : 
+    Auckland, New Zealand
+KES-IDT : 
+    Gifu, Japan
+AIST : 
+    Moscow, Russia
+GTM : 
+    Atlanta, USA
+SoCC : 
+    San Jose, USA
+    Santa Clara, USA
+MLSP : 
+    Tokyo, Japan
+ACM - ICBDR : 
+    Osaka, Japan
+LABELS : 
+    Quebec City, Canada
+KALSIMIS : 
+    Funchal, Portugal
+    Porto, Portugal
+CIKM : 
+    Hawaii, USA
+    Singapore
+    Glasgow, UK
+PAPIs : 
+    Boston, USA
+ACM--ICRIS--Ei : 
+    Amsterdam, Netherland
+ISCMI - IEEE : 
+    Pointe aux Piments, Mauritius
+AIFZ : 
+    Dubai, UAE
+ICCCBDA--Ei and Scopus : 
+    Chengdu, China
+ICAMS : 
+    Torino, Italy
+XLDB : 
+    Menlo Park, USA
+ICCSSE : 
+    Beijing, China
+DKMP : 
+    Dubai, UAE
+GISCUP  : 
+    Los Angeles, USA
+FDML : 
+    Kaohsiung, Taiwan
+DM_FLAIRS : 
+    Melbourne, USA
+IJCNN : 
+    Anchorage, USA
+LWDM : 
+    Athens, Greece
+ICPR : 
+    Beijing, China
+MVR3D : 
+    Venice, Italy
+MLSB posters : 
+    The Hague, Netherlands
+WASMM : 
+    Porto, Portugal
+IALP : 
+    Singapore
+SeMaT : 
+    Austin, USA
+LWDA/KDML : 
+    Potsdam, Germany
+CCSEIT : 
+    Vienna, Austria
+    Zurich, Switzerland
+IASIM : 
+    Rome, Italy
+MASTA@EPIA : 
+    Porto, Portugal
+MMM : 
+    Bangkok, Thailand
+ICMSCE--Ei, Scopus : 
+    Amsterdam, Netherland
+DAPS : 
+    New Orleans, USA
+    Barcelona, Spain
+MAICS : 
+    Fort Wayne, USA
+ICCTIM : 
+    Thessaloniki, Greece
+RTIS  : 
+    Beijing, China
+ECCV : 
+    Munich, Germany
+Baltic DB&IS, DC : 
+    Riga, Latvia
+CPS : 
+    Craiova, Romania
+SIPRO : 
+    Dubai, UAE
+ISMSI--Ei, Scopus and ISI : 
+    Phuket, Thailand
+ICIAS--Ei : 
+    Singapore
+MIWAI : 
+    Bandar Seri Begawan, Brunei
+EDBT/ICDT Workshops : 
+    Athens, Greece
+NEDB Summit : 
+    Cambridge, USA
+COMOREA : 
+    Athens, Greece
+Graph-TA : 
+    Barcelona, Spain
+GRADES : 
+    New York City, USA
+ICMSC - Ei : 
+    Moscow, Russia
+IEEE ITOEC : 
+    Chongqing, China
+HSI : 
+    Ulsan, South Korea
+WOSP : 
+    Toronto, Canada
+TIR : 
+    Lyon, France
+ISDM : 
+    Nice, France
+EiDMKD : 
+    Beijing, China
+ACIS : 
+    Krabi, Thailand
+AAAI : 
+    New Orleans, USA
+ICIIT - Ei & Scopus : 
+    Hanoi, Vietnam
+PACMA : 
+    Trieste, Italy
+MIG : 
+    Barcelona, Spain
+ASRU : 
+    Okinawa, Japan
+SUM : 
+    Dayton, USA
+    Marburg, Germany
+    Quebec, Canada
+SNAA : 
+    Davis, USA
+SITIS : 
+    Kyoto Terrsa, Japan
+SwissText : 
+    Winterthur, Switzerland
+SSCIG-CEC : 
+    San Sebastian, Spain
+CNSA  : 
+    Zurich, Switzerland
+GeoRich @ ACM SIGMOD/PODS : 
+    Raleigh, USA
+SS-MLID-IWANN : 
+    Cadiz, Spain
+ESAIR : 
+    Melbourne, Australia
+FLAIRS : 
+    Marco Island, USA
+ARIA : 
+    Dubai, UAE
+ICFIP--EI, Scopus : 
+    Barcelona, Spain
+DLRS : 
+    Boston, USA
+ICDEPI : 
+    Singapore
+CAnimAI : 
+    Arras, France
+IWPR--SPIE, Ei Compendex, Scopus : 
+    Jinan, China
+WICA : 
+    Trieste, Italy
+SeCoP : 
+    Suzhou, China
+SDM : 
+    Seattle, USA
+    Istanbul, Turkey
+    Houston, USA
+    San Diego, USA
+CICLOPS : 
+    Melbourne, Australia
+JSE : 
+    Dubai, UAE
+SISAP (LNCS and IS Journal) : 
+    Los Cabos, Mexico
+ALT : 
+    Lanzarote, Spain
+Ei - ICVARS : 
+    Brisbane, Australia
+KES-MDA : 
+    York, UK
+HFR : 
+    Napoli, Italy
+    Washington DC, USA
+EANN : 
+    Athens, Greece
+ICROM-Ei : 
+    Hong Kong
+IJCRS : 
+    Santiago, Chile
+    Olsztyn, Poland
+ACML  : 
+    Seoul, South Korea
+ADC : 
+    Brisbane, Australia
+    Melbourne, Australia
+AIFU : 
+    Dubai, UAE
+SocInf : 
+    Melbourne, Australia
+IEEE SSCI : 
+    Hawaii, USA
+DCAI : 
+    Toledo, Spain
+    Porto, Portugal
+DMCIT-EI : 
+    Phuket, Thailand
+MWDHealth : 
+    Chicago, USA
+BIRTE : 
+    Hangzhou, China
+    Trento, Italy
+    Istanbul, Turkey
+COMPRAIL : 
+    Madrid, Spain
+ACCVW-MLAC : 
+    Taipei, Taiwan
+TAAI : 
+    Taipei, Taiwan
+ICDPR : 
+    Boracay, Philipines
+KES-IDT-17 / IS09 (IDT-CMS : 
+    Vilamoura, Portugal
+CD : 
+    San Francisco, USA
+    Halifax, Canada
+SBBD : 
+    Curitiba, Brazil
+    Uberlandia, Brazil
+    Sao Paulo, Brazil
+FICC : 
+    Singapore
+Ei - ICBDSC : 
+    Casablanca, Morocco
+BigData4SmartEnergy : 
+    Shanghai, China
+INIT/AERFAISummerSchoolML : 
+    Benicassim, Spain
+SIMBig : 
+    Cuzco, Peru
+FSAG@FUZZ-IEEE : 
+    Naples, Italy
+DDDM : 
+    Vancouver, Canada
+DTMN : 
+    Dubai, UAE
+serecsys : 
+    Barcelona, Spain
+GvDB : 
+    Norten-Hardenberg, Germany
+ASC : 
+    Shanghai, China
+    Jeju Island, Korea
+ITPF : 
+    Mashhad, Iran
+ICAIL : 
+    London, UK
+NTIRE : 
+    Hawaii, USA
+    Taipei, Taiwan
+BiDaTA : 
+    Genoa, Italy
+AISP-: 
+    Shiraz, Iran
+MEDI : 
+    Amantea, Italy
+    Poitiers, France
+ICDIP-SPIE : 
+    Shanghai, China
+AI4Health : 
+    Funchal, Portugal
+HDMM : 
+    San Diego, USA
+ICCBB - Ei : 
+    Harrison, USA
+ICVIP - Ei : 
+    Singapore
+DASFAA (Demo Track) : 
+    Hanoi, Vietnam
+SDS : 
+    Bern, Switzerland
+CCIS : 
+    Hangzhou, China
+BalticDB&IS : 
+    Vilnius, Lithuania
+CSTY : 
+    Chennai, India
+BDSAV : 
+    Washington DC, USA
+DMCS  : 
+    New Orleans, USA
+EvoMUSART : 
+    Amsterdam, Netherlands
+PAIS : 
+    Genoa, Italy
+ICLR : 
+    Toulon, France
+    Vancouver, Canada
+FUSION : 
+    Xi'an, China
+PAIS': 
+    Khenchela, Algeria
+NLP : 
+    Dubai, UAE
+ACM--ICDPA--Scopus, Ei Compendex : 
+    Guangzhou, China
+IDEA : 
+    San Francisco, USA
+    Halifax, Canada
+ICAIR : 
+    Prague, Czech Republic
+MOCO : 
+    London, UK
+ICMVA--EI Compendex, Scopus : 
+    Singapore
+VLDB : 
+    Hangzhou, China
+    Hawaii, USA
+    Trento, Italy
+    Istanbul, Turkey
+    New Delhi, India
+IS : 
+    Ulyanovsk, Russia
+WINVIZNN : 
+    Taipei, Taiwan
+CSAI - Ei &Scopus : 
+    Jakarta, Indonesia
+ICDE : 
+    Helsinki, Finland
+    Chicago, USA
+    Brisbane, Australia
+    San Diego, USA
+AAMAS : 
+    Stockholm, Sweden
+SoMePeAS : 
+    Aberdeen, UK
+SoDeLIA : 
+    Bandar Seri Begawan, Brunei
+    Gadong, Brunei
+ECDMO - Ei & Scopus : 
+    Krakow, Poland
+ACM SAC-COCO : 
+    Pau, France
+AIKED : 
+    Cambridge, UK
+HealTech : 
+    Nice, France
+MLSCPS : 
+    Anaheim, USA
+ITNG : 
+    Las Vegas, USA
+ICCRI--EI, Scopus : 
+    Kuala Lumpur, Malaysia
+ICSC : 
+    Laguna Hills, USA
+AIMA : 
+    Prague, Czech Republic
+DMS : 
+    Sydney, Australia
+    Dubai, UAE
+    Barcelona, Spain
+    Zurich, Switzerland
+AIM@EPIA : 
+    Porto, Portugal
+ICUASA : 
+    Shanghai, China
+MLMI : 
+    Quebec City, Canada
+SHEIQL-: 
+    Pisa, Italy
+Ei - ICSCA - ACM  : 
+    Kuantan, Malaysia
+IES : 
+    Hanoi, Vietnam
+ODBASE : 
+    Graz, Austria
+    Amantea, Italy
+CEEC : 
+    Colchester, UK
+GraphQ : 
+    Genoa, Italy
+    Athens, Greece
+ICIBB - Ei : 
+    Bangkok, Thailand
+EI-CCEAI : 
+    Boracay, Philipines
+COLT : 
+    Stockholm, Sweden
+    Amsterdam, Netherlands
+IEEE--ICCSSE--Ei & Scopus : 
+    Wuhan, China
+ICRCA - Ei : 
+    Kitakyushu, Japan
+IEEE ITNEC : 
+    Chengdu, China
+MEDS : 
+    Chennai, India
+VARVAI : 
+    Amsterdam, Netherlands
+AHS : 
+    Pasadena, USA
+ITCS : 
+    Dubai, UAE
+LDK : 
+    Galway, Ireland
+DNIS : 
+    Aizu-Wakamatsu, Japan
+MIDAS : 
+    Riva del Garda, Italy
+Fashion-ML-KDD : 
+    Halifax, Canada
+GECCOsws : 
+    Berlin, Germany
+ESWC : 
+    Portoroz, Slovenia
+DATA STREAMS TRACK : 
+    Marrakesh, Morocco
+    Marrakech, Morocco
+CCKS : 
+    Chengdu, China
+PBDA : 
+    Warsaw, Poland
+DIM : 
+    San Francisco, USA
+    San Diego, USA
+    Las Vegas, USA
+SEBD  : 
+    Roccella Jonica, Italy
+DCNET : 
+    Rome, Italy
+KDH@IJCAI : 
+    Melbourne, Australia
+JISIC : 
+    Quito, Ecuador
+TRANSACT : 
+    Barcelona, Spain
+HDMS : 
+    Chania, Greece
+    Athens, Greece
+WSDM : 
+    Cambridge, UK
+CIESC : 
+    Naiguata, Venezuela
+BDIOT - ACM : 
+    London, UK
+EnDM : 
+    Genoa, Italy
+    Athens, Greece
+ICCRE--IEEE, Ei : 
+    Nagoya, Japan
+DiPP : 
+    Veliko Tarnovo, Bulgaria
+KES-AMSTA-17 / IS04 (AMAT-CMS : 
+    Vilamoura, Portugal
+ICONIP : 
+    Guangzhou, China
+ITS : 
+    Montreal, Canada
+KDD Cup : 
+    Halifax, Canada
+TC4SP : 
+    Clermont-Ferrand, France
+EWRL : 
+    Barcelona, Spain
+SMMA : 
+    Exeter, England
+ICACS - EI : 
+    Jeju Island, South Korea
+LDM : 
+    Hefei, China
+IEEE-ICCAR : 
+    Nagoya, Japan
+RAAI : 
+    Bucharest, Romania
+ICBBT- Ei : 
+    Lisbon, Portugal
+WPRSM : 
+    Leipzig, Germany
+AISI : 
+    Cairo, Egypt
+IEEE - ICKEA : 
+    London, UK
+ISMSI--Ei Compendex, Scopus and ISI : 
+    Phuket, Thailand
+PAKDD : 
+    Melbourne, Australia
+    Jeju Island, Korea
+    Jeju Island, South Korea
+ICACR--Ei and Scopus : 
+    Wuhan, China
+EDB : 
+    Seoul, South Korea
+    Incheon, Korea
+SIGSPATIAL : 
+    Los Angeles, USA
+ICBBE - Ei : 
+    Seoul, South Korea
+IEEE-ICRAS : 
+    Hong Kong
+EDBT/ICDT Tutorials : 
+    Athens, Greece
+BCI : 
+    Skopje, Macedonia
+PLP : 
+    Orleans, France
+IDEAS '11D : 
+    Lisbon, Portugal
+ICSRT--ACM, Ei : 
+    Chengdu, China
+CSE : 
+    Aalborg, Denmark
+    Paphos, Cyprus
+AI : 
+    Chennai, India
+    Melbourne, Australia
+    Hobart, Australia
+Big Data Analytics@IJCNN : 
+    Anchorage, USA
+EI--CMVIT : 
+    Hong Kong
+CIDR : 
+    Pacific Grove, USA
+EnCHIReS  : 
+    Lisbon, Portugal
+PICICT : 
+    Gaza, Palestine
+ISDSA  : 
+    Milan, Italy
+SML : 
+    Melbourne, Australia
+KES PR TAC : 
+    Marseille, France
+DTWSM : 
+    Helsinki, Finland
+KEOD : 
+    Paris, France
+ER : 
+    Gifu, Japan
+DBDBD : 
+    Antwerp, Belgium
+    Rotterdam, Netherlands
+    Brussels, Belgium
+IEEE DSAA': 
+    Montreal, Canada
+DMBD : 
+    Fukuoka, Japan
+WOD : 
+    Paris, France
+    Nantes, France
+ICOSE : 
+    Beijing, China
+EAST - FLAIRS : 
+    Marco Island, USA
+BNCOD : 
+    Oxford, UK
+CLEI : 
+    Naiguata, Venezuela
+Robot : 
+    Seville, Spain
+Special Session in SMC : 
+    Banff, Canada
+ISAIR : 
+    Kitakyushu, Japan
+ICDME - IOP : 
+    Guangzhou, China
+LOPAL : 
+    Rabat, Morocco
+CISIM : 
+    Venice, Italy
+FiCloud : 
+    Prague, Czech Republic
+ICRMV - Ei : 
+    Kitakyushu, Japan
+DMA  : 
+    Geneva, Switzerland
+ICBDC--Ei and Scopus : 
+    Shenzhen, China
+EDC : 
+    Bangkok, Thailand
+LAWCN : 
+    Porto Alegre, Brazil
+AISB : 
+    Bath, Uk 
+CBR@FLAIRS : 
+    Marco Island, USA
+NLPCC : 
+    Dalian, China
+DAB : 
+    Haifa, Israel
+    Beijing, China
+DEOS : 
+    Seoul, South Korea
+    Oxford, UK
+MedPRAI : 
+    Rabat, Morocco
+ICCSAMA : 
+    Berlin, Germany
+ACML : 
+    Hamilton, New Zealand
+    Seoul, South Korea
+ICWS : 
+    Santa Clara, USA
+SISSY : 
+    Columbus, USA
+NLG4DS : 
+    Saarbrucken, Germany
+BFAL : 
+    Patras, Greece
+IJCNN SS on Audio Applications : 
+    Anchorage, USA
+We RISE : 
+    Atlanta, USA
+DMCIT : 
+    Shanghai, China
+    Phuket, Thailand
+FedCSIS : 
+    Prague, Czech Republic
+IWBDS : 
+    Shanghai, China
+AIAPP : 
+    Geneva, Switzerland
+KAM : 
+    Lodz, Poland
+FDSE : 
+    Ho Chi Minh City, Vietnam
+ICSRT : 
+    Chengdu, China
+BDAS : 
+    Ustron, Poland
+    Poznan, Poland
+DARE : 
+    Skopje, Macedonia
+ICBRA - Ei : 
+    Barcelona, Spain
+DAPHNE : 
+    Brussels, Belgium
+DaMoN : 
+    Athens, Greece
+MESS : 
+    Taormina-Sicily, Italy
+MUME  : 
+    Atlanta, USA
+CSI : 
+    Shiraz, Iran
+ICITDA : 
+    Yogyakarta, Indonesia
+ICDM : 
+    New York City, USA
+    Shenzhen, China
+    Atlantic City, USA
+    New Orleans, USA
+    Barcelona, Spain
+NIPS-CAI : 
+    Long Beach, USA
+ISMW FRUCT : 
+    St. Petersburg, Russia
+ICRIC--Ei Compendex and Scopus : 
+    Nagoya, Japan
+WOD  : 
+    Nantes, France
+ACUMEN : 
+    New Orleans, USA
+NIPS ML4H : 
+    Long Beach, USA
+IoTAAL : 
+    Geneva, Switzerland
+ADS : 
+    Kanazawa, Japan
+ICCAI : 
+    Chengdu, China
+APDM : 
+    Melbourne, Australia
+WOMoCoE : 
+    Vienna, Austria
+DOLAP : 
+    Burlingame, USA
+    Glasgow, UK
+MPREF  : 
+    New Orleans, USA
+RDA : 
+    Osaka, Japan
+Ei - ICBCT : 
+    Hanoi, Vietnam
+AIAAT : 
+    Hawaii, USA
+WebDB : 
+    Chicago, USA
+    Scottsdale, USA
+AISTATS : 
+    Playa Blanca, Lanzarote
+    Fort Lauderdale, USA
+    Playa Blanca, Spain
+BDIOT - Ei : 
+    London, UK
+Balisage : 
+    Montreal, Canada
+ACIIDS : 
+    Kaohsiung, Taiwan
+    Dong Hoi City, Vietnam
+    Kuala Lumpur, Malaysia
+NIMD : 
+    Rome, Italy
+MobiDE : 
+    Scottsdale, USA
+    Athens, Greece
+FTC : 
+    Vancouver, Canada
+BOCIA : 
+    Xiamen, China
+ICISIP : 
+    Hawaii, USA
+    Matsue, Japan
+RWVW : 
+    Boston, USA
+Big EMPS : 
+    Washington DC, USA
+ICCIDS : 
+    Chennai, India
+IEEE--ICSGSC : 
+    Singapore
+ACM--ICCDA--Ei, Scopus, and ISI : 
+    DeKalb, USA
+Baltic DB&IS : 
+    Tallinn, Estonia
+ICBEA--Ei : 
+    Hong Kong
+CCML : 
+    Tianjin, China
+ICAPM - Scopus, EI : 
+    Phuket, Thailand
+exploreWeb : 
+    Paphos, Cyprus
+SIGI : 
+    Chennai, India
+DMDB : 
+    Vienna, Austria
+CSPRED : 
+    Raleigh, USA
+JFPC : 
+    Montreuil sur Mer, France
+ISWC-InUse : 
+    Sydney, Australia
+DEXA : 
+    Prague, Czech Republic
+ICCMA - Ei : 
+    Edmonton, Canada
+DBRank : 
+    Seattle, USA
+    Instabul, Turkey
+ICSN : 
+    Kuala Lumpur, Malaysia
+EAIS : 
+    Rhodes, Greece
+ICCDE--Ei and Scopus : 
+    Shanghai, China
+CSEN : 
+    Vienna, Austria
+Biometrics - TSP : 
+    Barcelona, Spain
+GeoDBIS : 
+    Vienna, Austria
+ICECIT : 
+    Tumkur, India
+ICAISE--IEEE, EI and Scopus : 
+    Chengdu, China
+ICOCB - EI : 
+    Jakarta, Indonesia
+MoD@ITSC : 
+    Yokohama, Japan
+CSPA : 
+    Penang, Malaysia
+ICME : 
+    San Diego, USA
+DEBS : 
+    Barcelona, Spain
+ICCAIRO : 
+    Prague, Czech Republic
+ILP : 
+    Orleans, France
+BDCAT : 
+    Austin, USA
+ICDT : 
+    Berlin, Germany
+    Genoa, Italy
+ICDM ARIAL : 
+    New Orleans, USA
+LKE : 
+    Puebla, Mexico
+EMSA : 
+    Melbourne, Australia
+ICCBDC : 
+    London, UK
+ADBIS - Workshops : 
+    Nicosia, Cyprus
+GOODTECHS : 
+    Venice, Italy
+HPCDB : 
+    Seattle, USA
+VLDS : 
+    Seattle, USA
+ICT & KE : 
+    Bangkok, Thailand
+NWCOM : 
+    Dubai, UAE
+AICPDES : 
+    Porto, Portugal
+EEML : 
+    Moscow, Russia
+    Dresden, Germany
+EmotionAware : 
+    Athens, Greece
+DEAs : 
+    Bandar Seri Begawan, Brunei
+CMC : 
+    Sydney, Australia
+SISAP : 
+    Tokyo, Japan
+    Toronto, Canada
+MAMLAKE : 
+    Kanazawa, Japan
+PQ : 
+    Rio de Janeiro, Brazil
+ICSS : 
+    Sydney, Australia
+ESANN : 
+    Bruges, Belgium
+RA  : 
+    Cambridge, USA
+ParLearning : 
+    Vancouver, Canada
+    Orlando, USA
+ICOK : 
+    Chengdu, China
+SIN : 
+    Aksaray, Turkey
+ICPRAI : 
+    Montreal, Quebec
+    Montreal, Canada
+ICCMS - Ei & Scopus : 
+    Sydney, Australia
+ICBSB - Ei : 
+    Auckland, New Zealand
+ICIII : 
+    Krakow, Poland
+TRAP : 
+    Rome, Italy
+AAIA : 
+    Prague, Czech Republic
+RuleML+RR : 
+    London, UK
+DBLM : 
+    Toulouse, France
+    Vienna, Austria
+IDAM : 
+    Kaohsiung, Taiwan
+ICIKM--EI, Scopus : 
+    Bali, Indonesia
+ICSR : 
+    Tsukuba, Japan
+BTW : 
+    Stuttgart, Germany
+C-Big : 
+    Pittsburgh, USA
+CyberC : 
+    Chengdu, China
+    Nanjing, China
+CCIA : 
+    Barcelona, Spain
+2nd BDTL Workshop : 
+    Boston, USA
+ACM SAC-RS : 
+    Pau, France
+    Marrakesh, Morocco
+    Marrakech, Morocco
+ICCTD--EI, Scopus : 
+    Istanbul, Turkey
+DATA : 
+    Rome, Italy
+    Madrid, Spain
+    Vienna, Austria
+IEEE HPSC  : 
+    Shenzhen, China
+DSCI : 
+    San Francisco, USA
+TFML : 
+    Cracow, Poland
+SCIA@PAAMS : 
+    Porto, Portugal
+DMIoT : 
+    Barcelona, Spain
+CISC : 
+    Portland, USA 
+IDA : 
+    London, UK
+    Stockholm, Sweden
+ICCIDM : 
+    Odisha, India
+AIC : 
+    Larnaca, Cyprus
+ICMAI--EI Compendex and Scopus : 
+    Chengdu, China
+AKG : 
+    Tokyo, Japan
+ICAISC : 
+    Zakopane, Poland
+Big Data : 
+    Chengdu, China
+    Nanjing, China
+SocialNLP : 
+    Boston, USA
+AutoML : 
+    Sydney, Australia
+AIPR : 
+    Washington DC, USA
+NIPS DISCML : 
+    Long Beach, USA
+L@S : 
+    Cambridge, USA
+SSDBM : 
+    Chania, Greece
+ICIA : 
+    Lodz, Poland
+EPIA : 
+    Porto, Portugal
+AI*AAL.it : 
+    Bari, Italy
+SPIE--IWPR--Ei Compendex, Scopus : 
+    Jinan, China
+ACM--ICCIP : 
+    Tokyo, Japan
+MDDE : 
+    Istanbul, Turkey
+AIHealth@FLAIRS  : 
+    Melbourne, USA
+ICIGP-Ei : 
+    Hong Kong
+LACATODA -  : 
+    Melbourne, Australia
+DaMNet : 
+    Barcelona, Spain
+Infitt-TIC : 
+    Toronto, Canada
+IEEE Big Data : 
+    Boston, USA
+IWSON : 
+    Barcelona, Spain
+AKTS : 
+    Druskininkai, Lithuania
+SOMOCO : 
+    Rome, Italy
+INCISCOS : 
+    Quito, Ecuador
+CST : 
+    Sydney, Australia
+    Dubai, UAE
+ICMME - Ei : 
+    Kuala Lumpur, Malaysia
+ICKSE--EI Compendex, Scopus : 
+    Istanbul, Turkey
+ECML-PKDD : 
+    Riva del Garda, Italy
+    Skopje, Macedonia
+ICKD : 
+    Penang, Malaysia
+ITCCMA : 
+    Dubai, UAE
+SMART  : 
+    Timisoara, Romania
+STIR : 
+    Washington DC, USA
+MIKE : 
+    Hyderabad, India
+IEEE BigDataService : 
+    Bamberg, Germany
+IEEE-SITIS: 
+    Jaipur, India
+MLG : 
+    San Francisco, USA
+    Halifax, Canada
+HeteroNAM : 
+    Los Angeles, USA
+WAAISC : 
+    Boston, USA
+ACLing : 
+    Dubai, UAE
+DaMEN : 
+    Sydney, Australia
+AI*IA : 
+    Bari, Italy
+BioS : 
+    Chennai, India
+HIS : 
+    Beijing, China
+MLHPC : 
+    Salt Lake City, USA
+    Denver, USA
+CVPR : 
+    Salt Lake City, USA
+WiML : 
+    Barcelona, Spain
+ICICA : 
+    Sydney, Australia
+JISBD : 
+    A Coruna, Spain
+    Cadiz, Spain
+    Almeria, Spain
+IRRATIONAL : 
+    Barcelona, Spain
+ACMLC--EI Compendex, Scopus : 
+    Singapore
+ICON : 
+    Kolkata, India
+NeTCoM : 
+    Dubai, UAE
+DAVA : 
+    Indianapolis, USA
+ISIS : 
+    Daegu, South Korea
+AIMSA Bangalore : 
+    Bangalore, India
+SemDial (SaarDial) : 
+    Saarland, Germany
+SIGMOD : 
+    Raleigh, USA
+    Melbourne, Australia
+    New York City, USA
+    San Francisco, USA
+    Scottsdale, USA
+BigData Congress : 
+    Seattle, USA
+SSDM : 
+    Riva del Garda, Italy
+ICCAC DS  : 
+    Tucson, USA
+UOII : 
+    Riga, Latvia
+DSAA : 
+    Tokyo, Japan
+    Paris, France
+    Montreal, Canada
+DEW : 
+    Poznan, Poland
+ICANN : 
+    Alghero, Italy
+IDEAL : 
+    Guilin, China
+GECCO : 
+    Berlin, Germany
+    Kyoto, Japan
+ICGHIT : 
+    Chiang Mai, Thailand
+IUI : 
+    Limassol, Cyprus
+VDA : 
+    Burlingame, USA
+WoLGA : 
+    Vichy, France
+KBCOM : 
+    Los Angeles, California
+    Los Angeles, USA
+PCNN : 
+    Genoa, Italy
+BiDaDA : 
+    Dallas, USA
+WISE : 
+    Moscow, Russia
+    Paphos, Cyprus
+IEEE--ICAVE : 
+    Singapore
+IDEAS : 
+    Bristol, UK
+    Barcelona, Spain
+    Lisbon, Portugal
+7th ICITCS : 
+    Seoul, South Korea
+ALatIKNOW : 
+    Graz, Austria
+NIC : 
+    Naples, Italy
+SafeThings : 
+    Delft, The Netherlands
+AIAP : 
+    Vienna, Austria
+    Zurich, Switzerland
+IFAC INCOM SIMCA : 
+    Bergamo, Italy
+CML : 
+    Barcelona, Spain
+ICISDM--IEEE Xplore, Ei and Scopus : 
+    Lakeland, USA
+dmmooc : 
+    Suzhou, China
+ICML : 
+    Sydney, Australia
+CAIA : 
+    Berlin, Germany
+MACE - Ei : 
+    Manila, Philippines
+SoMeRis : 
+    Barcelona, Spain
+NIPS ML4HC : 
+    Barcelona, Spain
+BDASD : 
+    Warsaw, Poland
+GRAIL : 
+    Quebec City, Canada
+WSDM Cup : 
+    Cambridge, UK
+IDAR : 
+    Athens, Greece
+GDM : 
+    Chicago, USA
+    Brisbane, Australia
+    Washington DC, USA
+DILS : 
+    Luxembourg
+    Montreal, Canada
+    Lisbon, Portugal
+TPCTC : 
+    Seattle, USA
+EnGeoData@DSAA : 
+    Tokyo, Japan
+IEEE CISDA : 
+    Hawaii, USA
+ISCI : 
+    Penang, Malaysia
+TSD : 
+    Prague, Czech Republic
+CECIIS : 
+    Varazdin, Croatia
+AICS : 
+    Dublin, Ireland
+ICRAE - IEEE : 
+    Shanghai, China
+ACM--ICSSE--Ei, Scopus : 
+    Prague, Czech Republic
+WMLI : 
+    Barcelona, Spain
+CCSEA  : 
+    Melbourne, Australia
+GlobalSIP : 
+    Montreal, Canada
+ADCOM : 
+    Dubai, UAE
+DMAP : 
+    Dubai, UAE
+    Vienna, Austria
+ICISS--Ei Compendex and Scopus : 
+    Jeju Island, South Korea
+SOCC : 
+    San Jose, USA
+RSmeetDBs : 
+    Toulouse, France
+KDD : 
+    Halifax, Canada
+DBKDA : 
+    Saint Gilles, France
+CYBI : 
+    Geneva, Switzerland
+COSIT : 
+    Santa Fe, USA
+ICCCS--Ei and Scopus : 
+    Nagoya, Japan
+Algorithmic news : 
+    Munich, Germany
+ACM--ICMSR--Ei, Scopus and ISI : 
+    Singapore
+APWeb : 
+    Changsha, China
+    Suzhou, China
+IWMIL : 
+    Milan, Italy
+DaMIS : 
+    London, UK
+    Lund, Sweden
+ICITE : 
+    Singapore
+SABID : 
+    Washington DC, USA
+    Boston, USA
+IEMIS : 
+    Kolkata, India
+AAAI-ATSE : 
+    New Orleans, USA
+EvoNets@DSAA : 
+    Tokyo, Japan
+CEC SS on Eng Appl : 
+    San Sebastian, Spain
+ICCDA - ACM : 
+    Lakeland, USA
+ICRAE : 
+    Shanghai, China
+WISA : 
+    Lisbon, Portugal
+ICIIP : 
+    London, UK
+    Guilin, China
+COREDEMA : 
+    Melbourne, Australia
+IDEAL  : 
+    Yangzhou, China
+ICTCC : 
+    Tam Ky City, Vietnam
+QoS-Workshop : 
+    Beijing, China
+ICCIDE : 
+    Vijayawada, India
+SPECOM : 
+    Leipzig, Germany
+Electronic Imaging : 
+    Burlingame, USA
+NATP  : 
+    Dubai, UAE
+BigNet : 
+    Perth, Australia
+ICPET : 
+    Deir El-Balah, Palestine
+ICTTE : 
+    Hong Kong
+AITS@EPIA : 
+    Porto, Portugal
+Infer : 
+    Darmstadt, Germany
+CIG : 
+    Maastricht, the Netherlands
+ICFCC--Ei & Scopus : 
+    Singapore
+AGI : 
+    Melbourne, Australia
+VICTA : 
+    Jaipur, India
+ICCSP - Ei & Scopus : 
+    Guiyang, China
+ADBIS -  : 
+    Poitiers, France
+?êEi/ SCOPUS?ëAIAAT : 
+    Hawaii, USA
+WI : 
+    Leipzig, Germany
+CLOSER : 
+    Funchal, Portugal
+IEEE - ISCMI : 
+    Pointe aux Piments, Mauritius
+CSMO : 
+    Phuket, Thailand
+MDDM : 
+    Barcelona, Spain
+MECH : 
+    Vienna, Austria
+PODS : 
+    Snowbird, USA
+    New York City, USA
+    Scottsdale, USA
+ACM--ICDEL--Ei Compendex : 
+    Beijing, China
+MLPM : 
+    Anaheim, USA
+ICMEAE--Ei and Scopus : 
+    Nagoya, Japan
+KDWEB : 
+    Cagliari, Italy
+SMLIR : 
+    Thessaloniki, Greece
+Randomized ML @ ESANN : 
+    Bruges, Belgium
+BigSys : 
+    Stuttgart, Germany
+WOW : 
+    Perth, Australia
+RuleML Challenge : 
+    Stony Brook, USA
+WCICSS : 
+    Cambridge, United Kingdom
+CSBio : 
+    NhaTrang, Vietnam
+ISWC poster&demo : 
+    Vienna, Austria
+BIGProv : 
+    Genoa, Italy
+CORE : 
+    Mexico City, Mexico
+Archiving : 
+    Riga, Latvia
+DBPL : 
+    Seattle, USA
+    Trento, Italy
+MENDEL SCC : 
+    Brno, Czech Republic
+FASOMA : 
+    Naples, Italy
+IEEE-ICIM : 
+    Chengdu, China
+EI-KDD : 
+    San Francisco, USA
+ACM - ICMLC : 
+    Macau, China
+WNUT : 
+    Osaka, Japan
+IEEE--ISCBI : 
+    Dubai, UAE
+UrbComp : 
+    San Francisco, USA
+    Halifax, Canada
+NTMS : 
+    Dubai, UAE
+PredictGIS : 
+    Redondo Beach, USA
+AMW : 
+    Ouro Preto, Brazil
+ICPRAM : 
+    Funchal, Portugal
+    Porto, Portugal
+WPDM : 
+    Genoa, Italy
+NISTBigData : 
+    Gaithersburg, USA
+MORE-BI : 
+    Florence, Italy
+SCESM Special Session IoT  : 
+    Belgaum, India
+ICBEB : 
+    Bangkok, Thailand
+DSBDA  : 
+    Barcelona, Spain
+BDA : 
+    Hyderabad, India
+AECIA : 
+    Marrakesh, Morocco
+SAI : 
+    Sydney, Australia
+ICMR : 
+    Bucharest, Romania
+IoA : 
+    Sao Paulo, Brazil
+CyberSafety : 
+    Perth, Australia
+ICRAI : 
+    Shanghai, China
+IEEE - ICBDA : 
+    Shanghai, China
+XMLDM : 
+    Harbin, China
+QUALICO : 
+    Wroclaw, Poland 
+ICBEA : 
+    Hong Kong
+EdRecSys : 
+    Omaha, USA
+ICBDT--EI, Scopus : 
+    Hangzhou, China

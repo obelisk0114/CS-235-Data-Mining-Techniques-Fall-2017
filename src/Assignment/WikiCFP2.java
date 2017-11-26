@@ -12,7 +12,7 @@ import java.util.ArrayList;
 
 public class WikiCFP2 {
 	public WikiCFP2(String s, String s2) throws IOException {
-		readWrite(s, s2);
+		//readWrite(s, s2);
 	}
 	
 	public void readWrite(String s, String s2) throws IOException {
@@ -43,7 +43,7 @@ public class WikiCFP2 {
             out.write(location);
             out.newLine();
             for (String sss : entry.getValue()) {
-            	out.write(sss);
+            	out.write("    " + sss);
             	out.newLine();
             }
         }

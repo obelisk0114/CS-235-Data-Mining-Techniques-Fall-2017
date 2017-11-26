@@ -16,7 +16,7 @@ import java.util.regex.Pattern;
 
 public class WikiCFP4 {
 	public WikiCFP4(String s, String s2) throws IOException {
-		readWrite(s, s2);
+		//readWrite(s, s2);
 	}
 	
 	public void readWrite(String s, String s2) throws IOException {

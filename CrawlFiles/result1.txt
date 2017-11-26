@@ -1,0 +1,407 @@
+Melbourne, Australia: 36
+Halifax, Canada: 35
+Barcelona, Spain: 32
+Dubai, UAE: 31
+Chengdu, China: 24
+Vienna, Austria: 23
+Singapore: 22
+New Orleans, USA: 20
+Shanghai, China: 19
+Beijing, China: 19
+Athens, Greece: 18
+Hawaii, USA: 17
+Porto, Portugal: 17
+Prague, Czech Republic: 16
+Sydney, Australia: 16
+Washington DC, USA: 16
+San Francisco, USA: 15
+Seoul, South Korea: 15
+London, UK: 13
+Tokyo, Japan: 12
+Chicago, USA: 12
+Boston, USA: 12
+Skopje, Macedonia: 11
+Vancouver, Canada: 11
+Genoa, Italy: 11
+New York City, USA: 10
+Hong Kong: 10
+Montreal, Canada: 10
+San Diego, USA: 10
+Chennai, India: 10
+Phuket, Thailand: 10
+Riva del Garda, Italy: 9
+Seattle, USA: 9
+Istanbul, Turkey: 9
+Rome, Italy: 9
+Berlin, Germany: 8
+Funchal, Portugal: 8
+Warsaw, Poland: 8
+Bangkok, Thailand: 8
+Moscow, Russia: 8
+Brisbane, Australia: 8
+Geneva, Switzerland: 7
+Scottsdale, USA: 7
+Ustron, Poland: 7
+Jaipur, India: 7
+Guangzhou, China: 7
+Kyoto, Japan: 7
+Bandar Seri Begawan, Brunei: 7
+Los Angeles, USA: 7
+Kuala Lumpur, Malaysia: 7
+Vilamoura, Portugal: 6
+Trieste, Italy: 6
+Toulouse, France: 6
+Stockholm, Sweden: 6
+Zurich, Switzerland: 6
+Lisbon, Portugal: 6
+Nagoya, Japan: 6
+Cadiz, Spain: 6
+Taipei, Taiwan: 6
+Shenzhen, China: 6
+Venice, Italy: 6
+Munich, Germany: 6
+Hyderabad, India: 6
+Wuhan, China: 5
+Kitakyushu, Japan: 5
+Hangzhou, China: 5
+Glasgow, UK: 5
+Osaka, Japan: 5
+Hanoi, Vietnam: 5
+Kolkata, India: 5
+Atlanta, USA: 5
+Cambridge, UK: 5
+Raleigh, USA: 5
+Suzhou, China: 5
+Marco Island, USA: 5
+Long Beach, USA: 5
+St. Petersburg, Russia: 5
+Madrid, Spain: 5
+Thessaloniki, Greece: 5
+Naples, Italy: 5
+Macau, China: 5
+Poznan, Poland: 4
+Druskininkai, Lithuania: 4
+Amsterdam, Netherlands: 4
+Bruges, Belgium: 4
+Austin, USA: 4
+Nicosia, Cyprus: 4
+Hamilton, New Zealand: 4
+Milan, Italy: 4
+Marrakesh, Morocco: 4
+Paris, France: 4
+Auckland, New Zealand: 4
+Kanazawa, Japan: 4
+Zakopane, Poland: 4
+Anchorage, USA: 4
+Melbourne, USA: 4
+Edmonton, Canada: 4
+Salt Lake City, USA: 4
+Pau, France: 4
+Perth, Australia: 4
+Graz, Austria: 4
+Jinan, China: 4
+Riga, Latvia: 3
+Guilin, China: 3
+Fukuoka, Japan: 3
+Arras, France: 3
+Poitiers, France: 3
+Burlingame, USA: 3
+Orlando, USA: 3
+Dallas, USA: 3
+Kaohsiung, Taiwan: 3
+Chania, Greece: 3
+Santiago, Chile: 3
+Jeju Island, South Korea: 3
+Rhodes, Greece: 3
+Pune, India: 3
+Toronto, Canada: 3
+Houston, USA: 3
+San Sebastian, Spain: 3
+Yogyakarta, Indonesia: 3
+Stuttgart, Germany: 3
+Jakarta, Indonesia: 3
+Sao Paulo, Brazil: 3
+Xi'an, China: 3
+Aberdeen, UK: 3
+Lyon, France: 3
+Bali, Indonesia: 3
+Cambridge, USA: 3
+Quebec City, Canada: 3
+Como, Italy: 3
+Anaheim, USA: 3
+Tianjin, China: 3
+Oxford, UK: 3
+Trento, Italy: 3
+Bari, Italy: 3
+La Rioja, Spain: 3
+Bangalore, India: 3
+Leipzig, Germany: 3
+Cancun, Mexico: 3
+Penang, Malaysia: 3
+Cairo, Egypt: 3
+Pointe aux Piments, Mauritius: 3
+Lakeland, USA: 3
+Florence, Italy: 3
+Quito, Ecuador: 3
+Orleans, France: 3
+Paphos, Cyprus: 3
+Bucharest, Romania: 3
+Casablanca, Morocco: 3
+Helsinki, Finland: 3
+Las Vegas, USA: 2
+Vijayawada, India: 2
+Amsterdam, Netherland: 2
+Tucson, USA: 2
+Mons, Belgium: 2
+Budapest, Hungary: 2
+Puebla, Mexico: 2
+Miami, USA: 2
+Shiraz, Iran: 2
+Nice, France: 2
+Hefei, China: 2
+Naiguata, Venezuela: 2
+Marseille, France: 2
+Adelaide, Australia: 2
+Exeter, England: 2
+Tam Ky City, Vietnam: 2
+Chatillon, France: 2
+Indianapolis, USA: 2
+NhaTrang, Vietnam: 2
+Copenhagen, Denmark: 2
+Ulyanovsk, Russia: 2
+Larnaca, Cyprus: 2
+DeKalb, USA: 2
+Uberlandia, Brazil: 2
+Phuoc Island, Vietnam: 2
+Valparaiso, Chile: 2
+Valenciennes, France: 2
+Irbid, Jordan: 2
+Emden, Germany: 2
+Timisoara, Romania: 2
+Salzburg, Austria: 2
+Santa Clara, USA: 2
+Kuantan, Malaysia: 2
+Tallinn, Estonia: 2
+Hobart, Australia: 2
+Delft, The Netherlands: 2
+Changa, India: 2
+Fort Wayne, USA: 2
+Coimbatore, India: 2
+Deir El-Balah, Palestine: 2
+Jeju Island, Korea: 2
+Boracay, Philipines: 2
+Polanica Zdroj, Poland: 2
+Chongqing, China: 2
+Krakow, Poland: 2
+Gifu, Japan: 2
+Valencia, Spain: 2
+Ohrid, Republic of Macedonia: 2
+Redondo Beach, USA: 2
+Harbin, China: 2
+Atlantic City, USA: 2
+New Delhi, India: 2
+Nanjing, China: 2
+Bloemfontein, South Africa: 2
+Vilnius, Lithuania: 2
+Olsztyn, Poland: 2
+Amantea, Italy: 2
+Manila, Philippines: 2
+Lodz, Poland: 2
+Nantes, France: 2
+Brussels, Belgium: 2
+Coimbra, Portugal: 2
+Rabat, Morocco: 2
+San Jose, USA: 2
+Marrakech, Morocco: 2
+Stony Brook, USA: 1
+Pasadena, USA: 1
+Dortmund, Germany: 1
+Maastricht, the Netherlands: 1
+Bamberg, Germany: 1
+Tsukuba, Japan: 1
+Benicassim, Spain: 1
+Olten, Switzerland: 1
+Sousse, Tunisia: 1
+Xiamen, China: 1
+Laguna Hills, USA: 1
+Las Vegas, Nevada: 1
+Torino, Italy: 1
+Gangtok, India: 1
+Hua-Hin, Thailand: 1
+Dalian, China: 1
+Augsburg, Germany: 1
+Menlo Park, USA: 1
+Dresden, Germany: 1
+Hsinchu City, Taiwan: 1
+Limassol, Cyprus: 1
+The Hague, Netherlands: 1
+Instabul, Turkey: 1
+Brno, Czech Republic: 1
+Male, Maldives: 1
+Playa Blanca, Lanzarote: 1
+Montreuil sur Mer, France: 1
+Maun, Botswana: 1
+Punta Hicacos, Cuba: 1
+Madrin, Spain: 1
+Nanjing and Tai'an, China: 1
+Bonn, Germany: 1
+Toulon, France: 1
+Koblenz, Germany: 1
+Fort Lauderdale, USA: 1
+Kansas City, USA: 1
+Guiyang, China: 1
+Colchester, UK: 1
+Mashhad, Iran: 1
+Montreal, Quebec: 1
+Aksaray, Turkey: 1
+Haifa, Israel: 1
+Rotterdam, Netherlands: 1
+Omaha, USA: 1
+Gadong, Brunei: 1
+Phnom Penh, Cambodia: 1
+Siena, Italy: 1
+Odisha, India: 1
+Reggio Calabria, Italy: 1
+Galway, Ireland: 1
+Potsdam, Germany: 1
+Daejeon, South Korea: 1
+Vellore, India: 1
+Antwerp, Belgium: 1
+Tumkur, India: 1
+Lome, Africa: 1
+Incheon, Korea: 1
+Hammamet, Tunisia: 1
+Ahmedabad, India: 1
+York, UK: 1
+Belgaum, India: 1
+La Habana, Cuba: 1
+Cuzco, Peru: 1
+Exeter, UK: 1
+Riyadh, Saudi Arabia: 1
+Maratea, Italy: 1
+Veliky Novgorod, Russia: 1
+Kyoto Terrsa, Japan: 1
+Playa Blanca, Spain: 1
+Malatya, Turkey: 1
+Trondheim, Norway: 1
+Kortrijk, Belgium: 1
+Brescia, Italy: 1
+Luxembourg: 1
+Porto Alegre, Brazil: 1
+Davis, USA: 1
+Darmstadt, Germany: 1
+Madeira, Portugal: 1
+Harrison, USA: 1
+Gaza, Palestine: 1
+Tamil Nadu, India: 1
+Merida, Mexico: 1
+Amman, Jordan: 1
+Cambridge, United Kingdom: 1
+Almeria, Spain: 1
+Rio de Janeiro, Brazil: 1
+Patras, Greece: 1
+Saint Gilles, France: 1
+Saarland, Germany: 1
+Craiova, Romania: 1
+Wroclaw, Poland : 1
+Cusco, Peru: 1
+Magdeburg, Germany: 1
+Ho Chi Minh City, Vietnam: 1
+Mexico City, Mexico: 1
+Lund, Sweden: 1
+Gran Canaria, Spain: 1
+Pittsburgh, USA: 1
+Dublin, Ireland: 1
+Curitiba, Brazil: 1
+Lanzarote, Spain: 1
+Pacific Grove, USA: 1
+Manchester, UK: 1
+Montpellier, France: 1
+A Coruna, Spain: 1
+Mountain View, USA: 1
+Los Cabos, Mexico: 1
+Ulsan, South Korea: 1
+Islamabad, Pakistan: 1
+Yangon, Myanmar: 1
+Hasselt, Belgium: 1
+Spokane, USA: 1
+Ouagadougou, West Africa: 1
+Veliko Tarnovo, Bulgaria: 1
+Khenchela, Algeria: 1
+Brindisi, Italy: 1
+Dayton, USA: 1
+Volterra, Italy: 1
+Yokohama, Japan: 1
+Matsue, Japan: 1
+Banff, Canada: 1
+Liverpool, UK: 1
+Goa, India: 1
+Cagliari, Italy: 1
+Malang, Indonesia: 1
+Los Angeles, California: 1
+Vichy, France: 1
+Selcuklu, Turkey: 1
+Da Nang, Vietnam: 1
+Minsk, Belarus: 1
+Busan, South Korea: 1
+Snowbird, USA: 1
+Columbus, USA: 1
+Oldenburg, Germany: 1
+Bath, Uk : 1
+Winterthur, Switzerland: 1
+Alghero, Italy: 1
+Varazdin, Croatia: 1
+Gold Coast, Australia: 1
+Troms, Norway: 1
+Opatija, Croatia: 1
+Gdynia, Poland: 1
+Yangzhou, China: 1
+Guayaquil, Ecuador: 1
+TU Dortmund, Germany: 1
+Bern, Switzerland: 1
+Portoroz, Slovenia: 1
+Liege, Belgium: 1
+Saarbrucken, Germany: 1
+Portland, USA : 1
+Cordoba, Argentina: 1
+Ouro Preto, Brazil: 1
+Quebec, Canada: 1
+Melaka, Malaysia: 1
+Norten-Hardenberg, Germany: 1
+Santa Fe, USA: 1
+Krabi, Thailand: 1
+Isfahan, Iran: 1
+Changsha, China: 1
+Ho Chi Minh, Vietnam: 1
+Bordeaux, France: 1
+Newark, USA: 1
+Roccella Jonica, Italy: 1
+Taormina-Sicily, Italy: 1
+Bristol, UK: 1
+New YorkCity, USA: 1
+Petrozavodsk, Russia: 1
+Cracow, Poland: 1
+Pisa, Italy: 1
+South Padre Island, USA: 1
+Seville, Spain: 1
+Alicante, Spain: 1
+Chemnitz, Germany: 1
+Napoli, Italy: 1
+Dong Hoi City, Vietnam: 1
+Aalborg, Denmark: 1
+Lome, Togo: 1
+Denver, USA: 1
+Chiang Mai, Thailand: 1
+Clermont-Ferrand, France: 1
+Irvine, USA: 1
+Malaga, Spain: 1
+Bergamo, Italy: 1
+Marburg, Germany: 1
+Leon, Spain: 1
+Toledo, Spain: 1
+Kazan, Russia: 1
+Sorrento Coast, Italy: 1
+Okinawa, Japan: 1
+Aizu-Wakamatsu, Japan: 1
+Gaithersburg, USA: 1
+Daegu, South Korea: 1

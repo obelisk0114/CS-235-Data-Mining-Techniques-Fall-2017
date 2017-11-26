@@ -12,7 +12,7 @@ import java.util.HashSet;
 
 public class WikiCFP3 {
 	public WikiCFP3(String s, String s2) throws IOException {
-		readWrite(s, s2);
+		//readWrite(s, s2);
 	}
 	
 	public void readWrite(String s, String s2) throws IOException {
