@@ -9,6 +9,8 @@ import java.io.IOException;
 
 import java.util.List;
 import java.util.ArrayList;
+import java.util.Set;
+import java.util.HashSet;
 import java.util.Map;
 import java.util.HashMap;
 
@@ -73,7 +75,7 @@ public class Mapping {
 		
 		if (counter != 56) {        // There are 56 malware in ground truth table.
 			System.out.println("counter = " + counter + "; Not match !!!");
-			System.out.println("The following are lost.\n");
+			System.out.println("The following are lost:\n");
 			findLost();
 		}
 		else {
@@ -95,21 +97,21 @@ public class Mapping {
 	}
 	
 	public void compare(String outPath, int col) {
-		Map<String, List<String>> groundTruthClass = new HashMap<String, List<String>>();
-		Map<String, List<String>> resultClass = new HashMap<String, List<String>>();
+		Map<String, Set<String>> groundTruthClass = new HashMap<String, Set<String>>();
+		Map<String, Set<String>> resultClass = new HashMap<String, Set<String>>();
 		
 		// Classify ground truth
 		for (Map.Entry<String, String> groundTruthEntry : groundTruthMap.entrySet()) {
 			String classNumber = groundTruthEntry.getValue(); 
 			if (groundTruthClass.containsKey(classNumber)) {
-				List<String> list = groundTruthClass.get(classNumber);
-				list.add(groundTruthEntry.getKey());
-				groundTruthClass.put(classNumber, list);
+				Set<String> set = groundTruthClass.get(classNumber);
+				set.add(groundTruthEntry.getKey());
+				groundTruthClass.put(classNumber, set);
 			}
 			else {
-				List<String> list = new ArrayList<String>();
-				list.add(groundTruthEntry.getKey());
-				groundTruthClass.put(classNumber, list);
+				Set<String> set = new HashSet<String>();
+				set.add(groundTruthEntry.getKey());
+				groundTruthClass.put(classNumber, set);
 			}
 		}
 		
@@ -117,16 +119,56 @@ public class Mapping {
 		for (Map.Entry<String, List<String>> resultEntry : resultMap.entrySet()) {
 			String classNumberResult = resultEntry.getValue().get(col);
 			if (resultClass.containsKey(classNumberResult)) {
-				List<String> list = resultClass.get(classNumberResult);
-				list.add(resultEntry.getKey());
-				resultClass.put(classNumberResult, list);
+				Set<String> set = resultClass.get(classNumberResult);
+				set.add(resultEntry.getKey());
+				resultClass.put(classNumberResult, set);
 			}
 			else {
-				List<String> list = new ArrayList<String>();
-				list.add(resultEntry.getKey());
-				resultClass.put(classNumberResult, list);
+				Set<String> set = new HashSet<String>();
+				set.add(resultEntry.getKey());
+				resultClass.put(classNumberResult, set);
 			}
 		}
+		
+		// Compare result with ground truth
+		Set<String> record = new HashSet<String>(); // Check duplicated
+		List<Integer> correct = new ArrayList<Integer>(); // Record the number of correction
+		
+		for (Map.Entry<String, Set<String>> outerEntry : groundTruthClass.entrySet()) {
+			Set<String> truthList = outerEntry.getValue();
+			int maxCorrect = -1;
+			String group = "";   // Record the group with max correction.
+			
+			for (Map.Entry<String, Set<String>> innerEntry : resultClass.entrySet()) {
+				Set<String> eachList = innerEntry.getValue();
+				int count = 0;  // Count the number of corrections
+				
+				for (String s : eachList) {
+					if (truthList.contains(s)) {
+						count++;
+					}
+				}
+				if (count > maxCorrect) {
+					maxCorrect = count;
+					group = innerEntry.getKey();
+				}
+			}
+			
+			if (!record.add(group)) {
+				System.out.println("Error hypothesis.");
+			}
+			else {
+				correct.add(Integer.parseInt(group));
+			}
+		}
+		
+		double rate = 0;
+		for (Integer i : correct) {
+			rate += i;
+		}
+		rate /= 56;
+		
+		System.out.println("Accuracy: " + rate);
 	}
 
 }

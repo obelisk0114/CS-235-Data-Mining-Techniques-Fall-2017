@@ -8,12 +8,13 @@ public class detectResult {
 		// TODO Auto-generated method stub
 		String groundTruthPath = "C:/Users/15T-J000/Desktop/Malware_Classes_Ground_Truth.csv";
 		String resultPath = "C:/Users/15T-J000/Desktop/sysnumresult.csv";
-		String outPath = "";
+		String outPath = "C:/Users/15T-J000/Desktop/correction.csv";
 		
-		int[] eachResult = {18, 19};
+		int[] eachResult = {16, 17};     // Don't count index column
 		
 		Mapping mapping = new Mapping();
 		mapping.read(groundTruthPath, resultPath);
+		mapping.compare(outPath, 17);
 
 	}
 
