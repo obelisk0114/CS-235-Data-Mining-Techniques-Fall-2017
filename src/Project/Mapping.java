@@ -74,8 +74,8 @@ public class Mapping {
 		fr2.close();
 		
 		if (counter != 56) {        // There are 56 malware in ground truth table.
-			System.out.println("counter = " + counter + "; Not match !!!");
-			System.out.println("The following are lost:\n");
+			System.out.println("counter = " + counter + "; Not match !!!\n");
+			System.out.println("The following are lost:");
 			findLost();
 		}
 		else {
@@ -93,7 +93,7 @@ public class Mapping {
 		
 		for (String key : tmp.keySet()) {
 			System.out.println(key);
-		}
+		}		
 	}
 	
 	public void compare(String outPath, int col) {
@@ -155,10 +155,12 @@ public class Mapping {
 			}
 			
 			if (!record.add(group)) {
+				System.out.println("\n!!! Class " + group + " is in the set.");
 				System.out.println("Error hypothesis.");
 			}
 			else {
 				correct.add(Integer.parseInt(group));
+				System.out.println("\nClass " + group + " is added successfully.");
 			}
 		}
 		
