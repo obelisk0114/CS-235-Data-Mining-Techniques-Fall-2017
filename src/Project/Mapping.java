@@ -17,10 +17,18 @@ import java.util.HashMap;
 public class Mapping {
 	private Map<String, String> groundTruthMap;
 	private Map<String, List<String>> resultMap;
+	private Set<String> ignore;
+	private int total;
 	
 	public Mapping() {
 		groundTruthMap = new HashMap<String, String>();
 		resultMap = new HashMap<String, List<String>>();
+		
+		ignore = new HashSet<String>();
+		ignore.add("bash0day-loT");
+		ignore.add("bash0day-fgt");
+		
+		total = 53;    // There are 55 malware in ground truth table.
 	}
 	
 	public void read(String groundTruthPath, String resultPath) throws IOException {
@@ -28,6 +36,7 @@ public class Mapping {
 		BufferedReader br = new BufferedReader(fr);
 		while (br.ready()) {
 			// csv file is separated by ",".
+			// class, name, number of system call 
 			String[] cell = br.readLine().split(",");
 			
 			// cell[1] is name of the malware.
@@ -37,12 +46,16 @@ public class Mapping {
 				System.exit(1);
 			}
 			
-			groundTruthMap.put(cell[1], cell[0]);
+			if (!ignore.contains(cell[1])) {
+				groundTruthMap.put(cell[1], cell[0]);
+			}
 		}
 		fr.close();
 		
 		FileReader fr2 = new FileReader(resultPath);
 		BufferedReader br2 = new BufferedReader(fr2);
+		
+		Set<String> syscallNumber = new HashSet<String>();  // system call number
 		
 		int counter = 0;       // compare with ground truth
 		int index = 1;         // row
@@ -52,6 +65,10 @@ public class Mapping {
 			// csv file is separated by ",".
 			String[] cell2 = br2.readLine().split(",");
 			
+			if (!syscallNumber.add(cell2[2])) {
+				System.out.println("The number of system call isn't different.");
+			}
+			
 			// Find the corresponding one in ground truth table.
 			if (groundTruthMap.containsKey(cell2[1])) {
 				counter++;
@@ -60,7 +77,7 @@ public class Mapping {
 					System.out.println("Duplicate in result index = " + index + " !!!");
 					counter--;         // minus 1
 				}
-				else {         // Record every cell in the row to the list.
+				else if (!ignore.contains(cell2[1])) {         // Record every cell in the row to the list.
 					List<String> list = new ArrayList<String>();
 					for (int i = 2; i < cell2.length; i++) {
 						list.add(cell2[i]);
@@ -73,7 +90,7 @@ public class Mapping {
 		}
 		fr2.close();
 		
-		if (counter != 56) {        // There are 56 malware in ground truth table.
+		if (counter != total) {
 			System.out.println("counter = " + counter + "; Not match !!!\n");
 			System.out.println("The following are lost:");
 			findLost();
@@ -168,7 +185,7 @@ public class Mapping {
 		for (Integer i : correct) {
 			rate += i;
 		}
-		rate /= 56;
+		rate /= total;
 		
 		System.out.println("Accuracy: " + rate);
 	}
