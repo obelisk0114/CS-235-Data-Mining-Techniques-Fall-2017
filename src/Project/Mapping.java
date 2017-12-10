@@ -15,20 +15,20 @@ import java.util.Map;
 import java.util.HashMap;
 
 public class Mapping {
-	private Map<String, String> groundTruthMap;
+	private Map<String, List<String>> groundTruthMap;
 	private Map<String, List<String>> resultMap;
 	private Set<String> ignore;
 	private int total;
 	
 	public Mapping() {
-		groundTruthMap = new HashMap<String, String>();
+		groundTruthMap = new HashMap<String, List<String>>();
 		resultMap = new HashMap<String, List<String>>();
 		
 		ignore = new HashSet<String>();
-		ignore.add("bash0day-loT");
-		ignore.add("bash0day-fgt");
+		//ignore.add("bash0day-loT");
+		//ignore.add("bash0day-fgt");
 		
-		total = 53;    // There are 55 malware in ground truth table.
+		total = 55;    // There are 55 malware in ground truth table.
 	}
 	
 	public void read(String groundTruthPath, String resultPath) throws IOException {
@@ -41,13 +41,17 @@ public class Mapping {
 			
 			// cell[1] is name of the malware.
 			// Duplicate element
-			if (groundTruthMap.containsKey(cell[1])) {
+			if (groundTruthMap.containsKey(cell[2])) {
 				System.out.println("Error occurs in ground truth !!!");
 				System.exit(1);
 			}
 			
 			if (!ignore.contains(cell[1])) {
-				groundTruthMap.put(cell[1], cell[0]);
+				List<String> list = new ArrayList<String>();
+				list.add(cell[0]);
+				list.add(cell[1]);
+				
+				groundTruthMap.put(cell[2], list);
 			}
 		}
 		fr.close();
@@ -70,20 +74,26 @@ public class Mapping {
 			}
 			
 			// Find the corresponding one in ground truth table.
-			if (groundTruthMap.containsKey(cell2[1])) {
+			if (groundTruthMap.containsKey(cell2[2])) {
 				counter++;
 				
-				if (resultMap.containsKey(cell2[1])) {  // Duplicate in result table
+				if (resultMap.containsKey(cell2[2])) {  // Duplicate in result table
 					System.out.println("Duplicate in result index = " + index + " !!!");
 					counter--;         // minus 1
 				}
 				else if (!ignore.contains(cell2[1])) {         // Record every cell in the row to the list.
 					List<String> list = new ArrayList<String>();
-					for (int i = 2; i < cell2.length; i++) {
+					for (int i = 1; i < cell2.length; i++) {
+						if (i == 2) {
+							continue;
+						}
+						
+						System.out.print(cell2[i] + ", ");
 						list.add(cell2[i]);
 					}
 					
-					resultMap.put(cell2[1], list);
+					System.out.println();
+					resultMap.put(cell2[2], list);
 				}
 			}
 			index++;
@@ -101,15 +111,15 @@ public class Mapping {
 	}
 	
 	public void findLost() {
-		Map<String, String> tmp = new HashMap<String, String>();
+		Map<String, List<String>> tmp = new HashMap<String, List<String>>();
 		tmp.putAll(groundTruthMap);
 		
 		for (String key : resultMap.keySet()) {
 			tmp.remove(key);
 		}
 		
-		for (String key : tmp.keySet()) {
-			System.out.println(key);
+		for (List<String> name : tmp.values()) {
+			System.out.println(name.get(1));
 		}		
 	}
 	
@@ -118,8 +128,8 @@ public class Mapping {
 		Map<String, Set<String>> resultClass = new HashMap<String, Set<String>>();
 		
 		// Classify ground truth
-		for (Map.Entry<String, String> groundTruthEntry : groundTruthMap.entrySet()) {
-			String classNumber = groundTruthEntry.getValue(); 
+		for (Map.Entry<String, List<String>> groundTruthEntry : groundTruthMap.entrySet()) {
+			String classNumber = groundTruthEntry.getValue().get(0); 
 			if (groundTruthClass.containsKey(classNumber)) {
 				Set<String> set = groundTruthClass.get(classNumber);
 				set.add(groundTruthEntry.getKey());
@@ -145,6 +155,8 @@ public class Mapping {
 				set.add(resultEntry.getKey());
 				resultClass.put(classNumberResult, set);
 			}
+			
+			//System.out.println("Class = " + classNumberResult);
 		}
 		
 		// Compare result with ground truth
@@ -169,6 +181,9 @@ public class Mapping {
 					maxCorrect = count;
 					group = innerEntry.getKey();
 				}
+//				System.out.println(
+//					"Truth : " + outerEntry.getKey() + 
+//					"; Result : " + innerEntry.getKey() + "; match : " + count);
 			}
 			
 			if (!record.add(group)) {
@@ -187,7 +202,7 @@ public class Mapping {
 		}
 		rate /= total;
 		
-		System.out.println("Accuracy: " + rate);
+		System.out.println("\nAccuracy: " + rate);
 	}
 
 }
