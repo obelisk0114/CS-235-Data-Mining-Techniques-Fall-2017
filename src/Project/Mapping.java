@@ -88,11 +88,11 @@ public class Mapping {
 							continue;
 						}
 						
-						System.out.print(cell2[i] + ", ");
+						//System.out.print(cell2[i] + ", ");
 						list.add(cell2[i]);
 					}
 					
-					System.out.println();
+					//System.out.println();
 					resultMap.put(cell2[2], list);
 				}
 			}
@@ -167,6 +167,7 @@ public class Mapping {
 			Set<String> truthList = outerEntry.getValue();
 			int maxCorrect = -1;
 			String group = "";   // Record the group with max correction.
+			System.out.println("\nClassify group " + outerEntry.getKey() + "; ");
 			
 			for (Map.Entry<String, Set<String>> innerEntry : resultClass.entrySet()) {
 				Set<String> eachList = innerEntry.getValue();
@@ -181,9 +182,9 @@ public class Mapping {
 					maxCorrect = count;
 					group = innerEntry.getKey();
 				}
-//				System.out.println(
-//					"Truth : " + outerEntry.getKey() + 
-//					"; Result : " + innerEntry.getKey() + "; match : " + count);
+				System.out.println(
+					"Truth : " + outerEntry.getKey() + 
+					"; Result : " + innerEntry.getKey() + "; match : " + count);
 			}
 			
 			if (!record.add(group)) {
@@ -192,7 +193,7 @@ public class Mapping {
 			}
 			else {
 				correct.add(Integer.parseInt(group));
-				System.out.println("\nClass " + group + " is added successfully.");
+				System.out.println("Class " + group + " is added successfully.");
 			}
 		}
 		
